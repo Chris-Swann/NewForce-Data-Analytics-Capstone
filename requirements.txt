@@ -1,0 +1,7 @@
+pandas
+selenium
+beautifulsoup4
+PyYAML
+folium
+geopandas
+shapely
