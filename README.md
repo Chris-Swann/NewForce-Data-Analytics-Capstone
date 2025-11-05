@@ -1,57 +1,34 @@
+
 # 🏃‍♂️ Ultramarathon Performance Analytics
 
-## 📌 Capstone Overview
-
-This project is part of the **NewForce Data Analytics Capstone** and focuses on analyzing ultramarathon performance across two major qualification pathways:
-
-- **Golden Ticket races** for the [Western States 100](https://www.wser.org/)
-- **UTMB World Series races** for the [UTMB Finals](https://utmb.world/)
-
-The goal is to uncover trends in how top performers from these qualifying events fare at the Western States and UTMB finals, while also examining environmental factors and gender distribution.
+This project analyzes ultramarathon performance trends for Western States 100 and UTMB Finals qualifiers. It explores race outcomes, environmental factors, and gender competitiveness using data from UltraSignup, UTMB World Series, and weather APIs.
 
 ---
 
 ## 🎯 Objectives
-
-- Analyze performance outcomes of Golden Ticket and UTMB World Series qualifiers
-- Identify which races yield the strongest or most consistent results
-- Explore how **temperature**, **elevation**, and **terrain** impact finishing times and DNF (Did Not Finish) rates
-- Examine **gender distribution** and competitiveness across events
-
----
-
-## 🧰 Current Progress
-
-- ✅ Built two custom web scrapers:
-  - `ultrasignup_webscraper.ipynb` for Golden Ticket race results
-  - `utmb_wescraper.ipynb` for UTMB World Series race results
-- ✅ Initial data cleaning and normalization underway
-- 🔜 Integration of weather and elevation data via API
-- 🔜 Exploratory analysis of gender and DNF trends
+- Analyze performance outcomes of Golden Ticket and UTMB World Series qualifiers.
+- Identify which races yield the strongest or most consistent results.
+- Explore how temperature, elevation, and terrain impact finishing times and DNF rates.
+- Examine gender distribution and competitiveness across events.
 
 ---
 
 ## 📊 Data Sources
+- 
 
-- [UltraSignup](https://ultrasignup.com/)
-- [UTMB World Series](https://utmb.world/)
-- [Meteostat Weather API](https://dev.meteostat.net/api/)
-- [D-U-V Race Results](https://statistik.d-u-v.org/)
-- [Endurance Data](https://www.endurance-data.com/en/)
+---
+
+## 🧰 Current Progress
+- 
 
 ---
 
 ## 🧪 Planned Features
-
-- Merged dataset of race results and environmental context
-- Visualizations of gender distribution and DNF patterns
-- Correlation heatmaps of environmental factors vs performance
-- Power BI or Tableau dashboard summarizing key insights
+- 
 
 ---
 
-# Database Schema
-
+## 🗄 Database Schema
 ```mermaid
 erDiagram
     race_id_master {
@@ -135,14 +112,4 @@ erDiagram
     race_id_master ||--o{ golden_ticket_races : "has"
     western_states_results ||--o{ golden_ticket_races : "linked to"
     golden_ticket_races }o--|| name_mapping : "normalizes"
-    western_states_results }o--|| name_mapping : "normalizes"
 
----
-
-- **race_id_master** is the central table containing race metadata.
-- **course_details** and **weather_conditions** link to `race_id_master` via `race_id`.
-- **golden_ticket_races** links to both `race_id_master` and `western_states_results` for Golden Ticket qualifiers.
-- **western_states_results** stores Western States race results.
-- **name_mapping** ensures consistent participant names across datasets by mapping aliases to normalized names.
-
----
