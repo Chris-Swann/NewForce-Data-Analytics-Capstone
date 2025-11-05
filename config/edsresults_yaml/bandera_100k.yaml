@@ -1,0 +1,14 @@
+race_name: Bandera 100k
+race_loc: Bandera, TX
+race_dist: 100K
+race_id: 50001
+race_date:
+  2022: January 8, 2022
+  2023: January 7, 2023
+  2024: January 13, 2024
+  2025: January 11, 2025
+race_slugs:
+  2022: bandera22
+  2023: bandera23
+  2024: bandera24
+  2025: bandera25
