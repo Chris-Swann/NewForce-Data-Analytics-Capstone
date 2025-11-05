@@ -48,8 +48,9 @@ The goal is to uncover trends in how top performers from these qualifying events
 - Correlation heatmaps of environmental factors vs performance
 - Power BI or Tableau dashboard summarizing key insights
 
+---
 
-## Database Schema
+# Database Schema
 
 ```mermaid
 erDiagram
@@ -135,6 +136,8 @@ erDiagram
     western_states_results ||--o{ golden_ticket_races : "linked to"
     golden_ticket_races }o--|| name_mapping : "normalizes"
     western_states_results }o--|| name_mapping : "normalizes"
+
+---
 
 - **race_id_master** is the central table containing race metadata.
 - **course_details** and **weather_conditions** link to `race_id_master` via `race_id`.
