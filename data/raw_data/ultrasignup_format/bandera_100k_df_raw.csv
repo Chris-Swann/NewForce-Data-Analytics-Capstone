@@ -1,0 +1,1533 @@
+Series_ID,Race_ID,Date,Year,Rank,Status,Name,City,State,Age,Gender,Gender_Rank,Time,Race,Race_Loc,Race_Dist
+50001,22,"Saturday, January 8, 2022",2022,1,Finisher,Jonathan Rea,Boulder,CO,29,M,1,8:10:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,2,Finisher,Tyler Fox,Lander,WY,29,M,2,8:14:53,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,3,Finisher,Joseph McConaughy,Seattle,WA,30,M,3,8:17:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,4,Finisher,Rod Farvard,Mammoth Lakes,CA,26,M,4,8:28:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,5,Finisher,Jimmy Elam,Salt Lake City,UT,34,M,5,8:33:07,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,6,Finisher,David Hedges,Ithaca,NY,24,M,6,8:45:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,7,Finisher,Tracen Knopp,Anchorage,AK,23,M,7,8:46:24,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,8,Finisher,Austin Horn,Flagstaff,AZ,24,M,8,9:02:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,9,Finisher,Gabriel Kline,Acton,MA,24,M,9,9:05:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,10,Finisher,Dmitri Journist,Salt Lake City,UT,33,M,10,9:06:21,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,11,Finisher,Jordan Lafreniere,Rockford,MI,38,M,11,9:11:04,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,12,Finisher,Jean-Francois Cauchon,Quebec,QC,28,M,12,9:11:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,13,Finisher,Marianne Hogan,montreal,QC,31,F,1,9:17:06,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,14,Finisher,Robert Landauer,Wimberley,TX,37,M,13,9:19:18,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,15,Finisher,Ellie Pell,Ithaca,NY,30,F,2,9:49:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,16,Finisher,Alex Hildebrandt,Denver,CO,25,M,14,10:04:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,17,Finisher,Leah Yingling,Salt Lake City,UT,30,F,3,10:05:20,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,18,Finisher,Meghan Morgan,Boulder,CO,24,F,4,10:12:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,19,Finisher,Brianna Grigsby,Tucson,AZ,34,F,5,10:15:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,20,Finisher,Rene Dorantes,Pasadena,CA,45,M,15,10:15:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,21,Finisher,Riley Brady,New Hope,PA,26,F,6,10:20:19,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,22,Finisher,Tyler Kilbury,Minneapolis,MN,36,M,16,10:23:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,23,Finisher,Daniel Oconor,San Antonio,TX,27,M,17,10:27:47,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,24,Finisher,Arden Young,Calgary,AB,36,F,7,10:28:14,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,25,Finisher,Yiran Li,Boulder,CO,28,M,18,10:33:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,26,Finisher,Jeff Dolan,Glen Mills,PA,43,M,19,10:35:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,27,Finisher,Benjamin Drexler,Minneapolis,MN,33,M,20,10:39:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,28,Finisher,Michelle Magagna,Portage,MI,31,F,8,10:40:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,29,Finisher,Conor Gillen,Saginaw,TX,36,M,21,10:45:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,30,Finisher,Ben Robinson,Tunkhannock,PA,28,M,22,10:48:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,31,Finisher,Brian Fagan,Pflugerville,TX,43,M,23,10:52:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,32,Finisher,Katrina Miller,Missoula,MT,29,F,9,10:56:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,33,Finisher,Andrea Larson,Wausau,WI,36,F,10,10:57:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,34,Finisher,Matthew Griffith,Fort Stockton,TX,37,M,24,11:04:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,35,Finisher,Christopher Kokotajlo,Acton,CA,28,M,25,11:04:53,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,36,Finisher,Matt Smith,San Antonio,TX,43,M,26,11:07:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,37,Finisher,Courtney Rouse,San Antonio,TX,28,F,11,11:07:13,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,38,Finisher,Sarah Pizzo,Steamboat Springs,CO,38,F,12,11:09:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,39,Finisher,Clay Emge,Tyler,TX,37,M,27,11:18:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,40,Finisher,Nick Drozdiak,Washington,DC,40,M,28,11:26:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,41,Finisher,Kate Mingle,Cambridge,MA,30,F,13,11:27:40,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,42,Finisher,German Garcia,Flint,TX,42,M,29,11:32:15,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,43,Finisher,Jill Wojta,Onalaska,WI,40,F,14,11:34:15,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,44,Finisher,Matthew Ferro,Austin,TX,27,M,30,11:34:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,45,Finisher,Wade Barrett,Houston,TX,45,M,31,11:41:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,46,Finisher,Lyman Hawbaker III,New York,NY,34,M,32,11:41:43,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,47,Finisher,John Sugden,Lees Summit,MO,39,M,33,11:43:14,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,48,Finisher,Brian Cavanaugh,Grand Rapids,MI,41,M,34,11:44:05,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,49,Finisher,Travis Bagwell,San Antonio,TX,37,M,35,11:47:01,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,50,Finisher,Elise Lagerstrom,Wood Village,OR,29,F,15,11:58:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,51,Finisher,Don Thoms,Omaha,NE,51,M,36,11:59:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,52,Finisher,Austin Janisch,Pasadena,CA,24,M,37,12:05:44,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,53,Finisher,James Fladhammer,Holmen,WI,40,M,38,12:06:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,54,Finisher,Nick Petterson,Grapevine,TX,28,M,39,12:13:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,55,Finisher,Chad Salyer,Fort Worth,TX,35,M,40,12:13:23,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,56,Finisher,Julia Hargesheimer,San Antonio,TX,41,F,16,12:18:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,57,Finisher,Philip Vondra,New Paltz,NY,53,M,41,12:26:48,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,58,Finisher,Josh Tavarez,San Antonio,TX,29,M,42,12:33:19,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,59,Finisher,Gina Milner,Tahoe City,CA,49,F,17,12:36:46,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,60,Finisher,Russ Ford,Katy,TX,41,M,43,12:39:33,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,61,Finisher,Sydney Lambert,Austin,TX,35,F,18,12:41:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,62,Finisher,MICHAEL TEMPLE,Austin,TX,29,M,44,12:43:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,63,Finisher,Austin Rains,Vancouver,WA,29,M,45,12:44:01,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,64,Finisher,Robert Sterba,New Smyrna Beach,FL,36,M,46,12:46:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,65,Finisher,Tatiana Rypinski,Houston,TX,28,F,19,12:48:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,66,Finisher,Ross Warkentin,Round Rock,TX,28,M,47,12:50:48,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,67,Finisher,Derek Logan,Belen,NM,40,M,48,12:50:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,68,Finisher,Mikey Biffel,Coatesville,PA,36,M,49,12:53:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,69,Finisher,Jeff Albert,Lone Tree,CO,39,M,50,12:53:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,70,Finisher,Tracy Kovaleski,Lafayette,CO,37,F,20,12:55:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,71,Finisher,Brandon Haney,Amarillo,TX,37,M,51,12:57:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,72,Finisher,Andrew Coy,Schenectady,NY,29,M,52,12:57:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,73,Finisher,Chase Morrison,Richardson,TX,35,M,53,12:59:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,74,Finisher,Dana Munari,Universal City,TX,57,M,54,13:00:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,75,Finisher,R Paul Boesch,Rochester,MN,47,M,55,13:08:47,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,76,Finisher,Emilio Nunez,New York,NY,50,M,56,13:08:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,77,Finisher,Paul Banel,Denver,CO,32,M,57,13:09:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,78,Finisher,Derek Solum,Chapel Hill,NC,49,M,58,13:11:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,79,Finisher,Shaun Haby,Olympia,WA,31,M,59,13:12:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,80,Finisher,Sara Rondorf,Andover,MN,44,F,21,13:14:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,81,Finisher,Matt Taylor,Dallas,TX,47,M,60,13:15:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,82,Finisher,Dmitry Korneev,Alpharetta,GA,40,M,61,13:16:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,83,Finisher,Eduardo Garza,San Antonio,TX,27,M,62,13:17:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,84,Finisher,Evan Tuuk,Fredericksburg,TX,32,M,63,13:18:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,85,Finisher,Colleen Jay,Pinnacle,NC,46,F,22,13:20:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,86,Finisher,Thomas Thewissen,Ixelles,,32,M,64,13:21:03,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,87,Finisher,Mike Schmitt,Rochester,MN,44,M,65,13:26:15,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,88,Finisher,Jaime Fensterl,New Albany,OH,36,F,23,13:27:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,89,Finisher,Garett Seeba,Galveston,TX,39,M,66,13:34:29,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,90,Finisher,Heidi Rounds,Roseville,CA,41,F,24,13:36:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,91,Finisher,Sankalp Shiva,Denton,TX,35,M,67,13:37:14,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,92,Finisher,Ronnie Russell,Philadelphia,PA,31,M,68,13:38:01,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,93,Finisher,Cory Windsor,Philadelphia,PA,35,M,69,13:38:02,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,94,Finisher,Francisco Escobedo,San Antonio,TX,31,M,70,13:40:35,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,95,Finisher,Nyikolaj Roskovics,Erd,,51,M,71,13:41:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,96,Finisher,Mitchell Parker,Vail,AZ,33,M,72,13:41:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,97,Finisher,Mindy Coolman,Omaha,NE,40,F,25,13:41:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,98,Finisher,Joe Bliss,Grand Rapids,MI,34,M,73,13:44:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,99,Finisher,Brian Gamble,Houston,TX,41,M,74,13:49:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,100,Finisher,Dean Steele,San Antonio,TX,47,M,75,13:50:53,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,101,Finisher,Clayton Lundell,Pflugerville,TX,36,M,76,13:52:02,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,102,Finisher,Carlos Osollo,San Antonio,TX,50,M,77,13:59:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,103,Finisher,Mitchell McLaughlin,Socorro,NM,23,M,78,14:00:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,104,Finisher,Christopher Vasquez,Fort Worth,TX,30,M,79,14:01:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,105,Finisher,Rosalie Shyu,Chicago,IL,28,F,26,14:08:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,106,Finisher,Jeffrey Fleitz,Chicago,IL,50,M,80,14:08:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,107,Finisher,Bhavesh Patel,Austin,TX,52,M,81,14:08:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,108,Finisher,Jose Humberto Gonzalez Millan,Cali,,35,M,82,14:09:03,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,109,Finisher,Richard White,Richardson,TX,42,M,83,14:09:18,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,110,Finisher,Mark Andersen,Pearland,TX,53,M,84,14:12:57,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,111,Finisher,Daniel Payne,Austin,TX,42,M,85,14:16:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,112,Finisher,Lisa O?Donnell,San Diego,CA,41,F,27,14:16:24,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,113,Finisher,Matthew Kuhlman,Wimberley,TX,38,M,86,14:18:40,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,114,Finisher,Matt Spears,San Antonio,TX,34,M,87,14:20:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,115,Finisher,Kevin Burpo,Austin,TX,43,M,88,14:23:47,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,116,Finisher,Timothy Weng,Austin,TX,33,M,89,14:23:47,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,117,Finisher,Chad Gustafson,Grand Junction,CO,42,M,90,14:24:02,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,118,Finisher,Beth Freymiller,Cottage Grove,MN,40,F,28,14:25:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,119,Finisher,Christian Meeder,Pittsburgh,PA,27,M,91,14:26:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,120,Finisher,Nic Miller,Mckinney,TX,41,M,92,14:26:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,121,Finisher,Ronnie Nash,Whitehouse,TX,52,M,93,14:27:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,122,Finisher,Miles Benevich,San Antonio,TX,40,M,94,14:28:23,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,123,Finisher,Tera Dube,San Luis Obispo,CA,49,F,29,14:30:13,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,124,Finisher,Jonathan Schrank,Fredericksburg,TX,40,M,95,14:33:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,125,Finisher,Brandon Ray,Bastrop,TX,39,M,96,14:35:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,126,Finisher,Juan Manuel Munoz Garay,San Antonio,TX,29,M,97,14:36:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,127,Finisher,Jeff Mires,New Albany,IN,58,M,98,14:38:05,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,128,Finisher,John Mather Chaney,Little Rock,AR,44,M,99,14:39:03,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,129,Finisher,Elizabeth Haubert,Durango,CO,26,F,30,14:40:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,130,Finisher,Andrew Taylor,Modesto,CA,38,M,100,14:42:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,131,Finisher,Joel Sharp,Richardson,TX,44,M,101,14:43:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,132,Finisher,John Dasch,North Dartmouth,MA,46,M,102,14:43:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,133,Finisher,VERONICA Perales,Mission,TX,44,F,31,14:46:23,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,134,Finisher,Cody Kleven,Cottage Grove,WI,41,M,103,14:49:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,135,Finisher,Brian Znotins,Calgary,AB,48,M,104,14:56:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,136,Finisher,Tyler Flaherty,Coppell,TX,43,M,105,14:57:11,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,137,Finisher,Jeff Hirvela,Austin,TX,42,M,106,14:58:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,138,Finisher,Michael Rose,Austin,TX,44,M,107,15:03:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,139,Finisher,Wes Plate,Snohomish,WA,48,M,108,15:04:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,140,Finisher,Aaron Fritz,San Antonio,TX,39,M,109,15:05:36,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,141,Finisher,Gabriel Garcia,San Luis Obispo,CA,48,M,110,15:06:33,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,142,Finisher,Chris Anderson,Oronoco,MN,44,M,111,15:09:02,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,143,Finisher,William Leach,Houston,TX,32,M,112,15:13:14,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,144,Finisher,Amanda Mazzenga,Seattle,WA,31,F,32,15:19:11,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,145,Finisher,Gregory Muhlner,Washington,DC,50,M,113,15:21:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,146,Finisher,Ryan Williams,Houston,TX,42,M,114,15:22:33,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,147,Finisher,Tony McDermott,Holly Springs,NC,41,M,115,15:23:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,148,Finisher,Jamaal Ryan,San Diego,CA,44,M,116,15:24:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,149,Finisher,Brent Williams,Beaumont,TX,39,M,117,15:24:43,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,150,Finisher,Benjamin Iles,Seattle,WA,35,M,118,15:24:46,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,151,Finisher,greg dinardo,Brooklyn,NY,35,M,119,15:27:38,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,152,Finisher,Todd Brown,Skokie,IL,53,M,120,15:28:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,153,Finisher,Andre Hermann,Sugar Land,TX,47,M,121,15:29:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,154,Finisher,Kevin Borden,New Paltz,NY,49,M,122,15:33:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,155,Finisher,Dylan Wagener,Indianola,IA,37,M,123,15:34:06,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,156,Finisher,Robert Kolb,Lorton,VA,54,M,124,15:34:57,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,157,Finisher,Vianey Camorlinga,Austin,TX,44,F,33,15:36:14,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,158,Finisher,Matthew Combs,Plano,TX,45,M,125,15:37:04,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,159,Finisher,Mike Cabrero,Roanoke,TX,41,M,126,15:38:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,160,Finisher,Jodi Semonell,Omaha,NE,49,F,34,15:39:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,161,Finisher,Amber Welch,Omaha,NE,36,F,35,15:39:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,162,Finisher,Jacob Burnett,Safety Harbor,FL,38,M,127,15:39:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,163,Finisher,Krista Hardebeck,Santa Ana,CA,27,F,36,15:41:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,164,Finisher,Soren Brockdorf,High Springs,FL,54,M,128,15:43:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,165,Finisher,Richters Warnick,Klamath Falls,OR,40,M,129,15:44:53,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,166,Finisher,Rob Warnick,Vail,AZ,38,M,130,15:44:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,167,Finisher,JACOB RICHTER,Fort Worth,TX,41,M,131,15:45:26,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,168,Finisher,Will Harrison,Alpharetta,GA,25,M,132,15:45:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,169,Finisher,Rachel Ballard,Chicago,IL,57,F,37,15:46:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,170,Finisher,Ryan Cody,Silver City,NM,44,M,133,15:47:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,171,Finisher,Nate Smith,Kerrville,TX,46,M,134,15:47:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,172,Finisher,Kirk Smith,Freeville,NY,42,M,135,15:47:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,173,Finisher,Justin Morris,Hoover,AL,39,M,136,15:50:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,174,Finisher,Christopher Culpepper,Houston,TX,56,M,137,15:52:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,175,Finisher,Chris Prairie,Austin,TX,34,M,138,15:52:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,176,Finisher,Jordan Sellers,Kenosha,WI,31,M,139,15:54:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,177,Finisher,Mike Gile,Fort Worth,TX,40,M,140,15:54:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,178,Finisher,Shannon Ellis,Ann Arbor,MI,46,F,38,15:55:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,179,Finisher,Aldo Castellari,Houston,TX,51,M,141,15:55:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,180,Finisher,Stephen Nuby,Houston,TX,40,M,142,15:57:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,181,Finisher,Chad Wegner,Frisco,TX,44,M,143,15:57:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,182,Finisher,Boog Ferrell,Athens,TX,43,M,144,15:58:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,183,Finisher,Tate Taylor,Athens,TX,26,M,145,15:58:01,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,184,Finisher,Patrick Hicks,Austin,TX,29,M,146,16:04:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,185,Finisher,Alexandra Fano,Alexandria,VA,41,F,39,16:05:05,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,186,Finisher,Aniruddha Sune,Frisco,TX,34,M,147,16:07:35,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,187,Finisher,Edward White,Elsie,MI,44,M,148,16:09:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,188,Finisher,Michael Bolden,Liberty Hill,TX,46,M,149,16:09:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,189,Finisher,Ben Dolezal,Grand Prairie,TX,43,M,150,16:12:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,190,Finisher,Ramon Garcia,Barcelona,,49,M,151,16:15:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,191,Finisher,Aingeru Zorita,Hudson,NY,40,M,152,16:15:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,192,Finisher,John Armbrust,Austin,TX,40,M,153,16:16:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,193,Finisher,Danny Ponder,Norman,OK,63,M,154,16:16:29,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,194,Finisher,Jennie Terflinger,Paola,KS,40,F,40,16:17:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,195,Finisher,Andy Ray,Tijeras,NM,43,M,155,16:17:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,196,Finisher,joni vuilsteke,lake tapps,WA,49,F,41,16:21:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,197,Finisher,Kim Smith,Austin,TX,44,F,42,16:24:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,198,Finisher,Zeke Zatyko,San Diego,CA,52,M,156,16:27:35,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,199,Finisher,Cooper Wells,Helotes,TX,26,M,157,16:30:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,200,Finisher,Andrew Winslow,Edinburg,TX,36,M,158,16:32:23,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,201,Finisher,Amado Casas,Palm Valley,TX,40,M,159,16:32:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,202,Finisher,Rich Wessels,Flower Mound,TX,52,M,160,16:35:20,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,203,Finisher,Rob Barry,Richardson,TX,45,M,161,16:36:44,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,204,Finisher,Zachary Vaughan,Klamath Falls,OR,37,M,162,16:37:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,205,Finisher,Rachel Grabow,Murphy,TX,38,F,43,16:39:03,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,206,Finisher,Fred Riethmiller,Austin,TX,53,M,163,16:39:21,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,207,Finisher,Matt Bromley,Greenville,MI,44,M,164,16:43:03,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,208,Finisher,Tyler Knarr,Norristown,PA,30,M,165,16:43:35,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,209,Finisher,Emelie Vanasse,Fort Benning,GA,27,F,44,16:43:35,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,210,Finisher,Dan Faulkner,Arlington,TX,55,M,166,16:46:21,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,211,Finisher,Michael Scandrett,Minneapolis,MN,67,M,167,16:46:32,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,212,Finisher,Mike Saleh,New York,NY,43,M,168,16:46:36,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,213,Finisher,Ilja Herdt,Brooklyn,NY,38,M,169,16:47:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,214,Finisher,Jennifer Shultis,Portland,OR,53,F,45,16:59:32,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,215,Finisher,Marion Guillemant,Austin,TX,36,F,46,17:00:04,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,216,Finisher,Blake Borrego,Austin,TX,40,M,170,17:00:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,217,Finisher,Jeffrey Breen,San Antonio,TX,40,M,171,17:03:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,218,Finisher,Nancy Marks,Round Rock,TX,61,F,47,17:05:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,219,Finisher,Ryan Yedlinsky,Lansing,KS,46,M,172,17:06:13,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,220,Finisher,Dennis Hall,San Angelo,TX,36,M,173,17:09:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,221,Finisher,Jill Lawless,Mead,OK,46,F,48,17:13:40,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,222,Finisher,Jim Kelton,Austin,TX,60,M,174,17:16:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,223,Finisher,Brian Ricketts,San Antonio,TX,43,M,175,17:21:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,224,Finisher,Robert Riley,Midland,TX,45,M,176,17:28:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,225,Finisher,Brandy Taylor,Columbia,MO,40,F,49,17:31:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,226,Finisher,Jed Taylor,Columbia,MO,42,M,177,17:31:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,227,Finisher,Gene Ledet,Austin,TX,36,M,178,17:32:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,228,Finisher,Matthew Leake,Keller,TX,33,M,179,17:34:20,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,229,Finisher,Justin Loveall,Bagdad,AZ,30,M,180,17:37:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,230,Finisher,Joe Currens,Flower Mound,TX,55,M,181,17:39:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,231,Finisher,James Phares,Austin,TX,60,M,182,17:41:07,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,232,Finisher,Steven Dryer,Holmen,WI,50,M,183,17:43:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,233,Finisher,Carl Tippets,South Jordan,UT,69,M,184,17:44:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,234,Finisher,Robert Benson,Austin,TX,41,M,185,17:45:01,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,235,Finisher,Jennifer Fuester-Reynolds,Colleyville,TX,43,F,50,17:45:20,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,236,Finisher,Paul Ernst,Boerne,TX,36,M,186,17:45:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,237,Finisher,Sandra Terrazas,Houston,TX,40,F,51,17:50:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,238,Finisher,Todd Wolford,El Paso,TX,56,M,187,17:55:04,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,239,Finisher,Jason Heng,Leander,TX,48,M,188,17:58:32,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,240,Finisher,Lauren Mcgettrick,Georgetown,TX,28,F,52,17:59:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,241,Finisher,Jennifer Stringham,Fort Collins,CO,39,F,53,18:00:00,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,242,Finisher,Mark Kent,Bedford,TX,57,M,189,18:00:48,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,243,Finisher,Mark Reilly,Mendham,NJ,57,M,190,18:04:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,244,Finisher,Hunter Beck,Fort Worth,TX,22,M,191,18:06:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,245,Finisher,James Riddle,Springtown,TX,43,M,192,18:11:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,246,Finisher,Jason Hoffman,Athens,TX,47,M,193,18:27:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,247,Finisher,Charles Womble,College Station,TX,21,M,194,18:34:11,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,248,Finisher,Dean Bibens,Milford,CT,25,M,195,18:44:24,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,249,Finisher,Blair McCormick,Brookfield,WI,24,M,196,18:44:24,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,250,Finisher,Kenneth Beck,Lakeside,TX,52,M,197,18:44:29,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,251,Finisher,Cory Boney,Waco,TX,35,M,198,18:47:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,252,Finisher,ISAAC REDMAN,Jackson,GA,28,M,199,18:47:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,253,Finisher,Rob Shaver,San Antonio,TX,45,M,200,18:54:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,254,Finisher,Bill Sommers,Plano,TX,67,M,201,19:01:47,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,255,Finisher,Kurt Adams,Howell,MI,42,M,202,19:01:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,256,Finisher,Richard Elkins Jr,Georgetown,TX,54,M,203,19:02:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,257,Finisher,James Hudgins,Hurst,TX,58,M,204,19:03:06,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,258,Finisher,Ron Mora,Austin,TX,60,M,205,19:05:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,259,Finisher,Jill Allison,Allen,TX,54,F,54,19:05:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,260,Finisher,Albert Trochesset,San Antonio,TX,35,M,206,19:06:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,261,Finisher,Holli Dobay,Brooklyn,NY,26,F,55,19:07:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,262,Finisher,Carrie Knapp,Cibolo,TX,42,F,56,19:08:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,263,Finisher,Rachel Sloan,Blue Springs,MO,34,F,57,19:10:22,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,264,Finisher,John Hutzel,Irving,TX,44,M,207,19:14:55,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,265,Finisher,Heather Daunis,Gonzales,LA,42,F,58,19:15:36,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,266,Finisher,CLIFF DE LA CERDA,San Angelo,TX,53,M,208,19:17:21,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,267,Finisher,Stephen Winton,Spring,TX,43,M,209,19:30:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,268,Finisher,Fred Thompson,Denton,TX,72,M,210,19:31:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,269,Finisher,Zack Wisnowski,Monroe Township,NJ,32,M,211,19:54:05,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,270,Finisher,Toni Ann Canora,Stamford,CT,51,F,59,19:54:05,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,271,Finisher,Brian Hughes,Athens,TX,28,M,212,19:58:15,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,272,Finisher,Nick Matthews,Thompsons Station,TN,49,M,213,20:00:07,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,273,Finisher,Bill Sanders,Elmhurst,IL,52,M,214,20:00:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,274,Finisher,Scott Jarnagin,San Antonio,TX,49,M,215,20:02:36,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,275,Finisher,Anthony Garcia,Boerne,TX,37,M,216,20:02:40,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,276,Finisher,Sam Deen,Athens,TX,38,M,217,20:04:48,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,277,Finisher,Micah Zimmerer,College Station,TX,21,M,218,20:18:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,278,Finisher,Scott Cheney,Dallas,TX,43,M,219,20:21:43,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,279,Finisher,Ian Connally,Fort Worth,TX,45,M,220,20:30:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,280,Finisher,Alla Bova,Stafford,TX,60,F,60,20:31:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,281,Finisher,Minel Diaz,Cedar Park,TX,47,F,61,20:35:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,282,Finisher,Kent Fish,San Angelo,TX,68,M,221,20:42:32,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,283,Finisher,Mark Huteson,Irving,TX,59,M,222,20:42:36,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,284,Finisher,Leigh-Anne Slack,Charles City,VA,39,F,62,20:44:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,285,Finisher,Eric Davis,North Tonawanda,NY,36,M,223,20:44:32,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,286,Finisher,James Arnold,La Grange,IL,56,M,224,20:54:24,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,287,Finisher,John Ehrle,Houston,TX,27,M,225,20:57:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,288,Finisher,Timothy Allen,Houston,TX,53,M,226,21:20:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,289,Finisher,Amanda Oliver,Fort Worth,TX,39,F,63,21:24:24,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,290,Finisher,Elizabeth Lara,Milwaukee,WI,47,F,64,21:26:04,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,291,Finisher,Brandon Miller,College Station,TX,21,M,227,21:36:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,292,Finisher,Ethan Fischer,Richardson,TX,20,M,228,21:48:25,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,293,Finisher,Samuel Wingender,Warsaw,MO,32,M,229,22:06:57,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,294,Finisher,Paul Bradley,San Antonio,TX,51,M,230,22:14:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,295,Finisher,Rufino Vegamora,Schertz,TX,44,M,231,22:32:53,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,296,Finisher,Jeff Sheffield,Cedar Park,TX,49,M,232,22:34:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,297,Finisher,Kathryn Davis,San Antonio,TX,44,F,65,23:11:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,298,Finisher,Shaunty Ipock,Cibolo,TX,49,F,66,23:11:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,299,Finisher,Daniela De La Cerda,San Angelo,TX,42,F,67,23:28:57,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,300,Finisher,Tony Nguyen,Antioch,CA,48,M,233,23:52:11,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,301,Finisher,Ethan Jackson,Athens,TX,31,M,234,24:00:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,302,Finisher,Daniel Borroum,Arlington,TX,35,M,235,24:00:40,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,303,Finisher,Mary Skinner,Tyler,TX,53,F,68,24:10:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,304,Finisher,Alvaro Gomez,Little Elm,TX,50,M,236,24:20:27,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,305,Finisher,Sam Jones,Tolar,TX,43,M,237,24:21:18,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,306,Finisher,Martin Ortiz,Austin,TX,51,M,238,24:22:21,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,307,Finisher,Randi Jensen,Florissant,CO,51,F,69,24:39:47,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,308,Finisher,Dan Waldon,Kent,WA,38,M,239,24:43:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,309,Finisher,Jordan Harris,Athens,TX,27,M,240,24:49:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,310,Finisher,Jonathan Ninh,Austin,TX,29,M,241,24:58:57,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,311,Finisher,Marissa Adams,San Antonio,TX,55,F,70,25:08:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Adam Merry,Golden,CO,31,M,,3:58:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Ryan Miller,San Antonio,TX,30,M,,4:04:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Christopher Sandefur,Ballwin,MO,35,M,,4:21:02,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Robby Haas,Boulder,CO,32,M,,4:35:42,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Adam Doe,Albuquerque,NM,34,M,,4:37:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,William Kent,Norman,OK,30,M,,4:41:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,jesse lang,Richland,WA,37,M,,4:43:48,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Sarah Biehl,Columbus,OH,28,F,,4:47:18,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Meghan Peyton,Terrebonne,OR,36,F,,4:54:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Christian Medina,New York,NY,23,M,,4:57:33,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Austin Parker,Houston,TX,38,M,,5:08:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Von Jones,Boerne,TX,53,M,,5:36:05,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Andrew Chaddick,Fulshear,TX,39,M,,5:48:31,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Piers Constable,New York,NY,50,M,,5:49:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Jay Hall,Franklin,TN,20,M,,5:55:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Lauren Kersjes,Wenatchee,WA,30,F,,6:03:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Tono Garcia,mexico,DIF,39,M,,6:20:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Gwendolyn Ostrosky,Santa Monica,CA,40,F,,6:21:23,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Krysten Tucker,Kyle,TX,34,F,,6:33:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Emma Cruz,Houston,TX,23,F,,6:34:34,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Guy Rubio,San Antonio,TX,39,M,,6:38:11,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Vincent Knecht,Pittsburgh,PA,29,M,,6:38:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Krystal Yuzwenko,Edmonton,AB,37,F,,6:45:16,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,John Studebaker,Hurst,TX,60,M,,6:46:20,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Patrick Stringer,San Antonio,TX,34,M,,7:01:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Ruben Veliz,Charlotte,NC,45,M,,7:01:12,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Michael Fleitz,New Albany,OH,48,M,,7:05:44,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Jason Hammel,Sherman,TX,44,M,,7:10:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Jennifer Herring,Randolph,NJ,50,F,,7:11:40,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Tim Foster,Arlington,TX,53,M,,7:14:09,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Will Temple,Brooklyn,NY,37,M,,7:17:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Isaac Fox,Houston,TX,46,M,,7:19:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Juan Sauceda,Burleson,TX,28,M,,7:42:41,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Sammi Hoffman,Franklin,TN,48,F,,7:42:58,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Michael Sebaly,Midland,MI,51,M,,7:48:38,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Alysss Neeb,Kyle,TX,33,F,,7:51:35,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Eileen Avery,Columbia,MO,48,F,,7:56:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Chris Otrok,Columbia,MO,51,M,,7:56:39,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Richard Philbrick,Canyon Lake,TX,56,M,,7:57:38,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Alejandro Segovia,Colorado Springs,CO,43,M,,7:58:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Paul ESCOBEDO,Pflugerville,TX,51,M,,8:01:15,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Jacob Showers,Normangee,TX,25,M,,8:03:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Cole Abston,Fort Worth,TX,29,M,,8:03:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Larry Story,Georgetown,TX,44,M,,8:04:52,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,FRANCISCO MARTINEZ ESTRADE,Frisco,TX,47,M,,8:18:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Steve Pero,New Boston,TX,70,M,,8:18:30,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Lynn Zaruba,San Angelo,TX,55,M,,8:22:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Karen Neuenschwander,kempner,TX,44,F,,8:31:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Jace Neuenschwander,Kempner,TX,44,M,,8:31:49,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Eric Lamkin,San Antonio,TX,47,M,,8:37:45,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Shane Parker,Houston,TX,47,M,,8:42:50,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Michael Krifka,New Braunfels,TX,39,M,,8:57:08,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Rhiannon Settles,Waco,TX,35,F,,8:58:37,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Clarissa Ramos,Laredo,TX,38,F,,9:06:59,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Bryan Lear,San Antonio,TX,47,M,,9:11:15,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Jeremy Lear,San Antonio,TX,44,M,,9:11:17,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Joe Edgecombe,Panama City,FL,72,M,,9:12:51,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Christine Harrison,Encinitas,CA,63,F,,9:12:57,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Laura Gietl,Fort Worth,TX,53,F,,9:21:28,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Michelle Colwell,Rowlett,TX,30,F,,9:31:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,TERRY FURRH,Larue,TX,59,M,,9:50:48,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Michael Stanard,Kerrville,TX,58,M,,9:57:04,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Hayden Swenholt,Plano,TX,39,M,,10:24:54,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Nick Rode,Kerrville,TX,43,M,,10:38:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Kelly Mulligan,Kerrville,TX,32,F,,10:38:10,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Bernie Gonzales,Fort Worth,TX,64,M,,10:46:56,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Parker Jolly,Montgomery,TX,33,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Sonia Burdett,Flint,TX,56,F,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Thomas Hayden,Bozeman,MT,39,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Joseph Fasl,New York,NY,40,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Victoria Allen,San Antonio,TX,34,F,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Taylor Nowlin,Spokane,WA,30,F,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Gregg Benson,Montgomery,TX,44,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Stephen Gnoza,Boulder,CO,36,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Matt Mousel,Eau Claire,WI,37,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Ted Davison,Austin,TX,49,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,John Luna,Port Lavaca,TX,49,M,,,Bandera 100k,"Bandera, TX",100K
+50001,22,"Saturday, January 8, 2022",2022,,DNF,Callie Uhan,Steamboat Springs,CO,30,F,,,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,1,Finisher,Jeffrey Colt,Carbondale,CO,31,M,1,8:23:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,2,Finisher,JP Giblin,Boulder,CO,28,M,2,8:29:08,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,3,Finisher,Canyon Woodward,Franklin,NC,29,M,3,8:35:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,4,Finisher,Chris Myers,Los Angeles,CA,26,M,4,8:37:08,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,5,Finisher,Ryan Atkins,sutton,QC,35,M,5,8:55:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,6,Finisher,Courtney Dauwalter,Leadville,CO,37,F,1,8:59:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,7,Finisher,John Kelly,Boone,NC,38,M,6,9:10:00,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,8,Finisher,Bryan Kerl,Salida,CO,31,M,7,9:14:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,9,Finisher,Christopher Sandefur,Ballwin,MO,36,M,8,9:25:41,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,10,Finisher,Alex Minor,Huntington,WV,25,M,9,9:28:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,11,Finisher,Andrew Simpson,York,PA,34,M,10,9:31:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,12,Finisher,Caleb Bowen,Huntington,WV,29,M,11,9:36:59,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,13,Finisher,Shaun Burke,Durango,CO,35,M,12,9:53:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,14,Finisher,Nicole Bitter,Austin,TX,40,F,2,10:04:03,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,15,Finisher,Careth Arnold,Sarasota,FL,32,F,3,10:13:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,16,Finisher,Amanda Basham,Boulder,CO,33,F,4,10:20:28,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,17,Finisher,Katherine Short,Halfmoon Bay,BC,32,F,5,10:21:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,18,Finisher,Mark Hillers,Parker,CO,35,M,13,10:31:59,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,19,Finisher,Blake Hilty,Seattle,WA,40,M,14,10:36:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,20,Finisher,Courtney Rouse,San Antonio,TX,29,F,6,10:38:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,21,Finisher,Katherine Song,Albany,CA,32,F,7,10:45:40,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,22,Finisher,Jeffrey Barrington,Puyallup,WA,43,M,15,10:48:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,23,Finisher,Kasie Enman,Huntington,VT,43,F,8,10:53:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,24,Finisher,Matthew Ferro,Austin,TX,28,M,16,10:53:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,25,Finisher,Tucker Grose,Westminster,CO,32,M,17,10:58:45,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,26,Finisher,Colin McCatharn,New Orleans,LA,29,M,18,11:00:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,27,Finisher,Conor Gillen,Saginaw,TX,37,M,19,11:05:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,28,Finisher,Jacquie Mannhard,Boulder,CO,38,F,9,11:05:53,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,29,Finisher,Elena Horton,Allston,MA,26,F,10,11:09:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,30,Finisher,Ryan Soule,Saint PaulWoodbury,MN,30,M,20,11:10:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,31,Finisher,Darrell Crain,Burnet,TX,52,M,21,11:24:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,32,Finisher,Matthew Taylor,Dallas,TX,48,M,22,11:28:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,33,Finisher,Hans Van Zanten,Kansas City,MO,49,M,23,11:32:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,34,Finisher,Ali Cooper,Augusta,GA,27,F,11,11:33:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,35,Finisher,Matt Smith,San Antonio,TX,44,M,24,11:37:32,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,36,Finisher,Evan Tuuk,Fredericksburg,TX,33,M,25,11:43:36,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,37,Finisher,Kyle Schenone,Beaverton,OR,32,M,26,11:44:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,38,Finisher,Joseph Bouchey,Las Vegas,NV,33,M,27,11:46:20,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,39,Finisher,Cory Torkelson,San Antonio,TX,38,M,28,12:08:02,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,40,Finisher,William Kent,Norman,OK,31,M,29,12:08:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,41,Finisher,Alexi Pappas,Woodland Hills,CA,32,F,12,12:08:51,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,42,Finisher,Julia Hargesheimer,San Antonio,TX,42,F,13,12:10:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,43,Finisher,Caleb Roth,York,PA,32,M,30,12:11:21,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,44,Finisher,Franz Konczak,San Antonio,TX,34,M,31,12:12:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,45,Finisher,Kayla Kroning,Ann Arbor,MI,26,F,14,12:13:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,46,Finisher,Greg Brant,Corpus Christi,TX,41,M,32,12:13:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,47,Finisher,German Garcia,Flint,TX,43,M,33,12:16:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,48,Finisher,Ian Rolls,Wimberley,TX,44,M,34,12:17:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,49,Finisher,Preston Grossling,Austin,TX,23,M,35,12:18:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,50,Finisher,Tatiana Rypinski,Houston,TX,29,F,15,12:20:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,51,Finisher,Sergio Rocha,Dallas,TX,29,M,36,12:29:45,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,52,Finisher,Tom Egan,Bradenton,FL,54,M,37,12:35:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,53,Finisher,Lance Aldridge,San Antonio,TX,41,M,38,12:40:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,54,Finisher,Luke Sigle,Lenexa,KS,40,M,39,12:44:21,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,55,Finisher,Joel Hagaman,Cedar Park,TX,35,M,40,12:44:41,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,56,Finisher,Chase Aycock,San Antonio,TX,32,M,41,12:46:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,57,Finisher,Charlie Gentry,Fort Worth,TX,29,M,42,12:50:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,58,Finisher,Austin Crain,Burnet,TX,27,M,43,12:50:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,59,Finisher,Lauren Jefferson,Harrisonburg,VA,48,F,16,12:52:53,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,60,Finisher,Garett Seeba,Galveston,TX,40,M,44,12:53:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,61,Finisher,Alex Dodson,Austin,TX,42,M,45,12:53:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,62,Finisher,Adam THOMAS,Austin,TX,51,M,46,12:53:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,63,Finisher,Matthew Smith,Redondo Beach,CA,44,M,47,12:55:32,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,64,Finisher,Robert Sterba,New Smyrna Beach,FL,37,M,48,12:55:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,65,Finisher,Rachel Veale,Asheville,NC,27,F,17,12:59:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,66,Finisher,Zach Dinkle,Janesville,WI,33,M,49,13:00:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,67,Finisher,Brian Fagan,Pflugerville,TX,44,M,50,13:10:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,68,Finisher,Wade Barrett,Houston,TX,46,M,51,13:11:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,69,Finisher,Chris Roberts,Princeton,TX,33,M,52,13:12:51,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,70,Finisher,Matt Crawford,Asheville,NC,32,M,53,13:13:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,71,Finisher,Michael Henson,Austin,TX,48,M,54,13:14:18,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,72,Finisher,Brad Taylor,Texarkana,AR,43,M,55,13:15:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,73,Finisher,Rick Gant,Olympia,WA,43,M,56,13:22:51,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,74,Finisher,Rick Nguyen,Richardson,TX,50,M,57,13:28:41,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,75,Finisher,Dana Munari,San Antonio,TX,58,M,58,13:29:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,76,Finisher,Gabe Leatherwood,Stephenville,TX,35,M,59,13:30:43,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,77,Finisher,John Sugden,San Antonio,TX,40,M,60,13:32:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,78,Finisher,Trevor Meding,Sugar Land,TX,42,M,61,13:32:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,79,Finisher,Joseph Robicheaux,Galveston,TX,30,M,62,13:33:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,80,Finisher,David Curtin,Munster,IN,48,M,63,13:36:27,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,81,Finisher,Lindsey Klassen,Redwood City,CA,37,F,18,13:39:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,82,Finisher,Tom Elliott,Midland,TX,42,M,64,13:39:59,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,83,Finisher,Timothy Weng,Austin,TX,34,M,65,13:42:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,84,Finisher,Brian Dulaney,Austin,TX,43,M,66,13:42:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,85,Finisher,Ashley Forshey,Killeen,TX,28,F,19,13:47:00,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,86,Finisher,Ryan Carroll,Plymouth,MA,45,M,67,13:49:39,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,87,Finisher,Carlo Fabian,Steubenville,OH,26,M,68,13:51:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,88,Finisher,Zachary Burns,Colleyville,TX,33,M,69,13:51:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,89,Finisher,Jeff Hirvela,Austin,TX,43,M,70,13:52:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,90,Finisher,BRIAN TOY,Pike Road,AL,44,M,71,13:52:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,91,Finisher,Reid Longabaugh,Early,TX,25,M,72,13:52:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,92,Finisher,Barry Kahn,Austin,TX,41,M,73,13:53:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,93,Finisher,Ashton Keck,Custer,SD,31,F,20,13:53:55,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,94,Finisher,Mark Tevis,San Antonio,TX,40,M,74,13:54:07,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,95,Finisher,Jay Elizalde,San Antonio,TX,35,M,75,13:54:56,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,96,Finisher,Ryan Cody,Silver City,NM,45,M,76,14:00:05,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,97,Finisher,Alexandra Walker,San Antonio,TX,37,F,21,14:04:48,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,98,Finisher,Nathan Bliss,Stillwater,MN,40,M,77,14:07:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,99,Finisher,Christopher Sheehan,Killeen,TX,31,M,78,14:08:27,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,100,Finisher,KC Stayner,Canyon Lake,TX,44,M,79,14:08:56,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,101,Finisher,Benjamin Dickason,Lone Tree,CO,34,M,80,14:09:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,102,Finisher,Nathaniel Milles,Austin,TX,34,M,81,14:17:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,103,Finisher,Richard Benoit,Kingston,WA,54,M,82,14:19:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,104,Finisher,Brandon Haney,Amarillo,TX,38,M,83,14:19:36,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,105,Finisher,Chris Prairie,Austin,TX,35,M,84,14:20:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,106,Finisher,Fred Riethmiller,Austin,TX,54,M,85,14:20:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,107,Finisher,Marshall Kratzer,San Antonio,TX,33,M,86,14:21:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,108,Finisher,Wes Estes,SAN RAFAEL,CA,42,M,87,14:24:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,109,Finisher,Marion Guillemant,Austin,TX,37,F,22,14:25:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,110,Finisher,Adharsh Ponnapakkam,San Antonio,TX,32,M,88,14:26:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,111,Finisher,Kevin Burpo,Austin,TX,44,M,89,14:27:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,112,Finisher,Hayden Edwards,San Antonio,TX,40,M,90,14:29:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,113,Finisher,Dean Steele,San Antonio,TX,48,M,91,14:31:43,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,114,Finisher,Jimmey Green,Oklahoma City,OK,38,M,92,14:35:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,115,Finisher,Daniel Anderson,Guthrie,OK,39,M,93,14:35:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,116,Finisher,Ilja Herdt,San Francisco,CA,39,M,94,14:37:19,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,117,Finisher,Erin MacNabb,Keller,TX,39,F,23,14:42:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,118,Finisher,Stephen Scobie,New York,NY,59,M,95,14:42:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,119,Finisher,Mark McCue,Bloomington,IN,45,M,96,14:43:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,120,Finisher,Alex Ramponi,Houston,TX,24,M,97,14:44:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,121,Finisher,Will Gonzaba,San Antonio,TX,33,M,98,14:50:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,122,Finisher,James Keller,Reno,NV,51,M,99,14:50:50,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,123,Finisher,Devon Olson,Steamboat Springs,CO,34,M,100,14:50:53,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,124,Finisher,Monica Showers,Trussville,AL,42,F,24,14:52:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,125,Finisher,Todd Hlasney,Overland Park,KS,49,M,101,14:53:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,126,Finisher,Makayla Utter,Georgetown,TX,27,F,25,14:54:48,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,127,Finisher,Samantha Friedel,Aledo,TX,39,F,26,14:55:07,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,128,Finisher,Richard White,Richardson,TX,43,M,102,15:02:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,129,Finisher,Adam Knutson,Mannford,OK,33,M,103,15:05:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,130,Finisher,Boog Ferrell,Athens,TX,44,M,104,15:05:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,131,Finisher,Robert Corcoran,Columbia,MO,36,M,105,15:10:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,132,Finisher,Amanda Lynch,Tulsa,OK,41,F,27,15:10:55,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,133,Finisher,John Anderson,Cedar Falls,IA,39,M,106,15:14:20,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,134,Finisher,Nolan Rome,Dallas,TX,46,M,107,15:15:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,135,Finisher,Kassandra Budzik,Austin,TX,31,F,28,15:15:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,136,Finisher,Alexander Nitschke,Boerne,TX,30,M,108,15:18:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,137,Finisher,Andrew Pond,San Antonio,TX,34,M,109,15:19:28,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,138,Finisher,John Sharp,Selma,TX,45,M,110,15:19:35,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,139,Finisher,Megan Gannon,Appleton,WI,47,F,29,15:20:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,140,Finisher,Alex Price,Austin,TX,35,M,111,15:21:43,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,141,Finisher,ronnie Nash,Whitehouse,TX,53,M,112,15:22:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,142,Finisher,andre hermann,Sugar Land,TX,48,M,113,15:23:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,143,Finisher,Stuart Cohen,Arvada,CO,38,M,114,15:24:48,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,144,Finisher,David Saenger,Eugene,OR,54,M,115,15:33:23,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,145,Finisher,Brian Abernathy,Bergheim,TX,46,M,116,15:33:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,146,Finisher,Peter Hall,Boulder,CO,43,M,117,15:33:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,147,Finisher,David Ainsworth,Austin,TX,47,M,118,15:33:36,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,148,Finisher,Ross Ormond,San Antonio,TX,41,M,119,15:35:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,149,Finisher,Michael Kerrigan,Austin,TX,46,M,120,15:38:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,150,Finisher,Ben Ambler,Denton,TX,28,M,121,15:40:10,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,151,Finisher,Nicholas DiMarco,San Antonio,TX,38,M,122,15:40:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,152,Finisher,Greg Lanier,Fort Worth,TX,29,M,123,15:41:07,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,153,Finisher,Kathleen Hanley,Houston,TX,33,F,30,15:42:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,154,Finisher,James McIntyre,San Antonio,TX,35,M,124,15:43:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,155,Finisher,Joseph Fasl,New York,NY,41,M,125,15:46:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,156,Finisher,Roger Pine,College Station,TX,45,M,126,15:47:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,157,Finisher,Michael Babb,Conifer,CO,53,M,127,15:49:56,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,158,Finisher,Christian Merx,Austin,TX,43,M,128,15:54:02,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,159,Finisher,Daniel Tacker,Robinson,TX,34,M,129,15:54:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,160,Finisher,Jonathan Schrank,Fredericksburg,TX,41,M,130,15:56:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,161,Finisher,Sarah Teruel,Midland,TX,33,F,31,15:56:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,162,Finisher,Rustam Valitov,North Royalton,OH,44,M,131,15:59:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,163,Finisher,Jenn Walker,Rigby,ID,39,F,32,16:02:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,164,Finisher,Derek Logan,Belen,NM,41,M,132,16:05:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,165,Finisher,Wes Plate,Everett,WA,49,M,133,16:05:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,166,Finisher,Rebecca Burgo,West Henrietta,NY,42,F,33,16:05:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,167,Finisher,Andrea Moore,Dallas,TX,45,F,34,16:06:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,168,Finisher,Helmut Walter,Livingston,TX,56,M,134,16:06:19,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,169,Finisher,Ben Dolezal,Grand Prairie,TX,44,M,135,16:06:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,170,Finisher,Conrad Brown,San Antonio,TX,39,M,136,16:11:56,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,171,Finisher,Kathleen Gorby,Fort George G Meade,MD,40,F,35,16:11:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,172,Finisher,Matt Spears,San Antonio,TX,35,M,137,16:12:32,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,173,Finisher,Ryan McQuiston,Fort Worth,TX,40,M,138,16:13:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,174,Finisher,Kelly Cook,Dallas,TX,40,M,139,16:13:39,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,175,Finisher,Nancy Nguyen,Richardson,TX,46,F,36,16:14:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,176,Finisher,Christopher Null,Austin,TX,55,M,140,16:17:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,177,Finisher,Christopher Culpepper,Houston,TX,57,M,141,16:19:20,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,178,Finisher,Kevin Halliburton,Allen,TX,51,M,142,16:20:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,179,Finisher,Wade Binion,Granbury,TX,44,M,143,16:22:20,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,180,Finisher,Stephanie Leake,Fort Worth,TX,39,F,37,16:23:19,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,181,Finisher,Robert Ashley,San Antonio,TX,30,M,144,16:26:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,182,Finisher,JUSTIN GANN,Katy,TX,41,M,145,16:27:43,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,183,Finisher,Will Reams,Harrisburg,PA,29,M,146,16:28:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,184,Finisher,Anton Simorov,Norfolk,NE,35,M,147,16:28:33,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,185,Finisher,Tyler Lindt,Magnolia,TX,35,M,148,16:30:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,186,Finisher,Richard Toy,Austin,TX,44,M,149,16:30:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,187,Finisher,Mike Cavanaugh,Manitowoc,WI,45,M,150,16:31:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,188,Finisher,Brady Morgan,San Antonio,TX,24,M,151,16:32:18,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,189,Finisher,Michael Raischel,Tahlequah,OK,33,M,152,16:34:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,190,Finisher,Jacob Burnett,Safety Harbor,FL,39,M,153,16:35:32,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,191,Finisher,Julio Arias Viaud,Mission,TX,48,M,154,16:36:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,192,Finisher,Laura Beaver,Argyle,TX,39,F,38,16:38:33,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,193,Finisher,Julian Miranda,Corona,NY,46,M,155,16:42:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,194,Finisher,Brent Mason,Bentonville,AR,29,M,156,16:42:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,195,Finisher,John Armbrust,Austin,TX,41,M,157,16:42:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,196,Finisher,Stephen Singletary,Katy,TX,41,M,158,16:44:27,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,197,Finisher,Ethan Mitchell,Kerrville,TX,24,M,159,16:44:27,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,198,Finisher,Jeff Watterson,New Castle,IN,45,M,160,16:45:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,199,Finisher,Ashley Gramza,Little Rock,AR,36,F,39,16:45:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,200,Finisher,Chris Barnes,Plano,TX,56,M,161,16:47:50,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,201,Finisher,Larry Story,Georgetown,TX,45,M,162,16:48:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,202,Finisher,Greg Sek Jr,San Antonio,TX,45,M,163,16:50:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,203,Finisher,Jim Skelding,Austin,TX,52,M,164,16:52:18,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,204,Finisher,Elijah Slate,Austin,TX,45,M,165,16:52:42,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,205,Finisher,Anabel Pearson,Helotes,TX,52,F,40,16:53:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,206,Finisher,Rachel Patrick,Fort Collins,CO,38,F,41,16:54:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,207,Finisher,Will Green,Fort Worth,TX,41,M,166,16:58:21,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,208,Finisher,Genevieve Clemons,Austin,TX,20,F,42,16:58:50,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,209,Finisher,Blake Borrego,Austin,TX,41,M,167,16:58:55,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,210,Finisher,Matt Swallow,Kyle,TX,38,M,168,16:59:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,211,Finisher,Tim Brown,Austin,TX,41,M,169,17:11:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,212,Finisher,Patrick Stringer,San Antonio,TX,35,M,170,17:12:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,213,Finisher,Kristy DeVincentis,Rochester,NY,46,F,43,17:13:59,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,214,Finisher,Danny Ponder,Norman,OK,64,M,171,17:20:56,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,215,Finisher,Robert Miller,Dallas,TX,32,M,172,17:22:41,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,216,Finisher,Joel Button,Stillwater,MN,54,M,173,17:24:47,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,217,Finisher,Kyle Palmer,Stillwater,MN,45,M,174,17:24:48,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,218,Finisher,Nancy Marks,Round Rock,TX,62,F,44,17:25:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,219,Finisher,Alejandro Segovia,Colorado Springs,CO,44,M,175,17:25:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,220,Finisher,Damon Mar,Kansas City,KS,38,M,176,17:35:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,221,Finisher,Robert Gomez,Midland,TX,43,M,177,17:35:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,222,Finisher,Allegra Luzius,Lampasas,TX,48,F,45,17:37:03,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,223,Finisher,Lisa McCormick,Saginaw,TX,49,F,46,17:39:54,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,224,Finisher,FRANCISCO MARTINEZ ESTRADE,Frisco,TX,48,M,178,17:40:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,225,Finisher,Dusan Jolovic,Friscoo,TX,36,M,179,17:40:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,226,Finisher,John Moak,Blythewood,SC,50,M,180,17:43:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,227,Finisher,Ray Blue,Austin,TX,48,M,181,17:43:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,228,Finisher,Jessica Donahue,Frisco,TX,41,F,47,17:48:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,229,Finisher,Call Casarez,San Marcos,TX,29,M,182,17:57:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,230,Finisher,Drew Bures,Goldsboro,NC,40,M,183,17:57:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,231,Finisher,Chad Wegner,Frisco,TX,45,M,184,17:58:59,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,232,Finisher,Stephanie Hoff,Somerset,WI,43,F,48,17:59:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,233,Finisher,Tate Taylor,Athens,TX,27,M,185,18:03:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,234,Finisher,Jeremy Knaus,Appleton,WI,49,M,186,18:05:57,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,235,Finisher,Lourdes Gutierrez-Kellam,Calgary,AB,55,F,49,18:08:40,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,236,Finisher,Christopher Whinham,Katy,TX,43,M,187,18:09:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,237,Finisher,Jacie Green,Midland,TX,34,F,50,18:09:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,238,Finisher,Jason Upton,KatyKaty,TX,38,M,188,18:09:36,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,239,Finisher,Aniruddha Sune,Frisco,TX,35,M,189,18:10:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,240,Finisher,MARK KIRKLAND,Urbana,IL,48,M,190,18:12:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,241,Finisher,Adam Korona,League City,TX,48,M,191,18:18:00,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,242,Finisher,David Karp,Bennett,CO,64,M,192,18:18:19,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,243,Finisher,Jordan Maxwell,Richardson,TX,37,M,193,18:20:10,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,244,Finisher,Tom Bohannon,Richardson,TX,47,M,194,18:20:10,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,245,Finisher,Nick Zitaglio,Richardson,TX,34,M,195,18:20:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,246,Finisher,Kathleen Gray,Austin,TX,54,F,51,18:21:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,247,Finisher,Steve Carter,San Antonio,TX,43,M,196,18:21:50,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,248,Finisher,Ron Mora,Austin,TX,61,M,197,18:33:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,249,Finisher,Michael Robertson,Bayfield,CO,30,M,198,18:41:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,250,Finisher,John Hutzel,Roanoke,TX,45,M,199,18:43:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,251,Finisher,Maxwell Johnson,Ada,OK,35,M,200,18:43:40,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,252,Finisher,Des'Arae Stephens,Elgin,TX,28,F,52,18:56:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,253,Finisher,Paul Chouffet,Aubrey,TX,53,M,201,18:57:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,254,Finisher,Andrew Steelman,Champaign,IL,42,M,202,18:57:35,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,255,Finisher,James Hudgins,Hurst,TX,59,M,203,18:57:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,256,Finisher,Carrie Knapp,Cibolo,TX,43,F,53,18:57:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,257,Finisher,John McAllen,San Antonio,TX,57,M,204,18:57:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,258,Finisher,Matt Wittram,Malakoff,TX,44,M,205,19:01:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,259,Finisher,Andrew Arbuckle,Washington,DC,47,M,206,19:02:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,260,Finisher,Luke Taliaferro,San Antonio,TX,35,M,207,19:03:47,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,261,Finisher,Eddie Dimas,Rio Rancho,NM,61,M,208,19:05:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,262,Finisher,Richard Elkins Jr,Georgetown,TX,55,M,209,19:08:27,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,263,Finisher,Myndi Quirion,Calgary,AB,43,F,54,19:34:50,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,264,Finisher,Mark Huteson,Irving,TX,60,M,210,19:36:20,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,265,Finisher,CLIFF DE LA CERDA,San Angelo,TX,54,M,211,19:36:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,266,Finisher,Jeff Sheffield,Cedar Park,TX,50,M,212,19:47:52,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,267,Finisher,Chris Ramos,San Antonio,TX,37,M,213,19:50:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,268,Finisher,Steve DeLuna,Fort Huachuca,AZ,50,M,214,19:50:58,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,269,Finisher,William Kohmuench,San Antonio,TX,52,M,215,19:53:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,270,Finisher,Aaron Richter,Reno,NV,43,M,216,19:57:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,271,Finisher,Tyson Oliver,Palestine,TX,29,M,217,20:00:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,272,Finisher,Jake Cherry,Florissant,CO,43,M,218,20:03:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,273,Finisher,Tobias Daniel,Linden,TX,42,M,219,20:03:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,274,Finisher,Timothy Allen,Houston,TX,54,M,220,20:03:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,275,Finisher,Kent Fish,San Angelo,TX,69,M,221,20:05:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,276,Finisher,Ray Liberatore,Richardson,TX,35,M,222,20:10:41,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,277,Finisher,Mark Tetreault,La Marque,TX,31,M,223,20:14:10,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,278,Finisher,Jason Reed,Universal City,TX,51,M,224,20:26:18,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,279,Finisher,Russell Shanks,Midland,TX,55,M,225,20:31:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,280,Finisher,Braxton Harrison,Belton,TX,19,M,226,20:32:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,281,Finisher,Marc Hoyle,Temple,PA,59,M,227,20:34:02,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,282,Finisher,Lori Taylor,Charlotte,NC,52,F,55,20:40:45,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,283,Finisher,Marcia Kissel,Charlotte,NC,55,F,56,20:40:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,284,Finisher,Samuel Elkins,Springdale,AR,53,M,228,20:45:03,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,285,Finisher,Megan Ladigo,Austin,TX,37,F,57,20:48:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,286,Finisher,Cameron Bostedt,Leander,TX,40,M,229,20:49:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,287,Finisher,Jason Hoffman,Athens,TX,48,M,230,20:50:59,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,288,Finisher,Jennifer Smith,Cibolo,TX,37,F,58,20:55:48,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,289,Finisher,Nick Draper,Buda,TX,40,M,231,20:59:33,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,290,Finisher,sergio lopez,Comfort,TX,36,M,232,21:01:39,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,291,Finisher,Joe Prusaitis,Austin,TX,68,M,233,21:02:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,292,Finisher,Jefhrey Javier,Round Rock,TX,44,M,234,21:02:23,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,293,Finisher,Jon Perz,Katy,TX,41,M,235,21:09:40,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,294,Finisher,Nikita Borisov,Urbana,IL,45,M,236,21:14:53,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,295,Finisher,Sean Michot,San Antonio,TX,51,M,237,21:16:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,296,Finisher,Amanda Xiang,FriscoFrisco,TX,46,F,59,21:18:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,297,Finisher,JIAYAN SHOU,Frisco,TX,48,M,238,21:18:32,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,298,Finisher,Manny Olivo,San Antonio,TX,50,M,239,21:34:19,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,299,Finisher,Floyd Colley,Waco,TX,29,M,240,21:36:48,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,300,Finisher,Joaquin Gonzalez,Waco,TX,46,M,241,21:46:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,301,Finisher,Nancy Romero,Waco,TX,42,F,60,21:46:35,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,302,Finisher,Ethan Jackson,Athens,TX,32,M,242,21:48:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,303,Finisher,Susan Bush,Palo Alto,CA,55,F,61,21:50:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,304,Finisher,Elizabeth C. Perez,Victoria,TX,58,F,62,21:50:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,305,Finisher,Joshua Torres,Goliad,TX,32,M,243,21:53:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,306,Finisher,Daniela De La Cerda,San Angelo,TX,43,F,63,22:02:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,307,Finisher,Dennis Hall,San Angelo,TX,37,M,244,22:05:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,308,Finisher,Neisa Condemaita,Washington,DC,48,F,64,22:06:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,309,Finisher,Michael Stacpoole,Marion,TX,46,M,245,22:47:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,310,Finisher,Ryan Simms,Cypress,TX,42,M,246,23:06:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,311,Finisher,Frank Fernandez,Seattle,WA,61,M,247,23:41:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,312,Finisher,Eric Dutcher,Wylie,TX,48,M,248,23:43:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,313,Finisher,Michael Stanard,Kerrville,TX,59,M,249,23:46:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,314,Finisher,Stan Berry,Norman,OK,63,M,250,23:51:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,315,Finisher,Christi Myers,San Antonio,TX,44,F,65,23:53:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,316,Finisher,Scott Ahnberg,San Antonio,TX,49,M,251,23:53:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,317,Finisher,Kay Perry,San Antonio,TX,50,F,66,23:59:55,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,318,Finisher,Jason Alvarez,Boerne,TX,39,M,252,24:24:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,319,Finisher,Veronica Sosa,Austin,TX,53,F,67,24:33:44,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,320,Finisher,Andrew Readinger,Fort Worth,TX,39,M,253,24:33:46,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Ryan Montgomery,Coalville,UT,28,M,,6:59:47,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Kasey Duval,Wimberley,TX,29,F,,12:46:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Michael Miller,New York,NY,30,M,,12:52:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jeff Dozier,Austin,TX,37,M,,13:51:10,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Emiliana Patlan,San Antonio,TX,38,F,,15:39:32,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Alla Bova,Stafford,TX,61,F,,17:03:02,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Justin Bennett,Tomball,TX,40,M,,18:16:51,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Joseph McConaughy,Seattle,WA,31,M,,5:25:33,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Sarah Bergeron-Larouche,Saint-Ferr�ol-les-Neiges,QC,35,F,,6:33:39,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Kate Motsko,San Antonio,TX,35,F,,6:59:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Laurent Schram,Saint-Paul,,48,M,,8:21:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Ryan Hill,Denison,TX,32,M,,8:24:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Brandon Ray,Bastrop,TX,40,M,,9:10:47,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Erica De Los Santos,Tucson,AZ,39,F,,9:21:40,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jim Casey,Roanoke,VA,38,M,,9:26:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Laura Marino,Houston,TX,44,F,,9:32:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Michael Bolden,Liberty Hill,TX,47,M,,9:46:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Charles Thacker,Torance,CA,62,M,,9:54:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Tim Foster,Arlington,TX,54,M,,11:07:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Ryan Roberts,pottsboro,TX,42,M,,11:13:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Bridget Wineman,Ridgeland,MS,45,F,,11:52:36,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Kameron Fletcher,Austin,TX,28,M,,11:53:37,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Fred Thompson,Denton,TX,73,M,,12:55:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Cameron McGaughey,Spring,TX,37,M,,13:11:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Russell Ozmer,Melissa,TX,47,M,,13:14:11,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Darren Durrett,Richardson,TX,47,M,,13:21:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Andy Gillard,Richardson,TX,43,M,,13:21:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Bill Sommers,Plano,TX,68,M,,13:51:30,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,John Fazzio,Hoboken,NJ,43,M,,14:35:35,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Sue TUCKER,Saint Louis,MO,44,F,,15:00:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Erica Pisciotto,Saint Louis,MO,53,F,,15:00:10,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Anthony Lee,Boulder,CO,29,M,,4:03:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Cory Keehn,Vilas,NC,30,M,,4:29:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Charlie Ware,Prescott,AZ,37,M,,4:39:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Michelle Magagna,Portage,MI,32,F,,5:16:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Travis Decker,Boerne,TX,32,M,,5:31:13,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Zachary Smith,Saranac Lake,NY,32,M,,5:34:49,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Santiago Paredes,Durango,CO,30,M,,6:21:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Collin Page,Carnation,WA,40,M,,6:25:05,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Ryan Beard,Austin,TX,47,M,,6:33:25,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Josh Tavarez,San Antonio,TX,30,M,,6:33:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Samantha Bradley,Round Rock,TX,34,F,,6:33:28,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,TIMOTHY BARR,Arvada,CO,47,M,,6:35:15,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Andy Hooks,Shallowater,TX,41,M,,6:37:29,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jay Baker,San Antonio,TX,51,M,,6:48:02,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jim Kelton,Austin,TX,61,M,,7:12:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jennifer Shultis,Kingston,WA,54,F,,7:14:03,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Julien Anguenot,Houston,TX,41,M,,7:23:12,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jason Friedman,New Paltz,NY,47,M,,7:24:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Pablo Perez Leon,Katy,TX,52,M,,7:33:01,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Justin Lowry,Mc Gregor,TX,41,M,,7:34:09,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Marc Henn,Temple,TX,47,M,,7:35:53,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,John Studebaker,Hurst,TX,61,M,,7:39:17,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Rich Wessels,Flower Mound,TX,53,M,,7:41:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jeremy Brizzi,Cary,IL,46,M,,7:42:42,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,James Enriquez,Mission,TX,38,M,,7:48:35,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Nate Smith,Kerrville,TX,47,M,,7:49:14,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Rachel Grabow,Murphy,TX,39,F,,7:59:06,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jessica Jones,Dallas,TX,36,F,,8:06:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Robert Trottmann,San Antonio,TX,43,M,,8:15:02,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Michael Babbin,McKinney,TX,56,M,,8:18:24,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Adam Vernon,New Boston,TX,34,M,,8:33:00,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,David Stanley,Overland Park,KS,46,M,,8:35:00,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Stephen Winton,Spring,TX,44,M,,9:19:21,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jason Gonzales,Austin,TX,41,M,,9:19:45,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Roberto Arambula,Dripping Springs,TX,37,M,,9:57:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,John Burrell,Fort Worth,TX,35,M,,10:26:20,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Adrian Powell,Burnaby,BC,47,M,,10:27:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Megan Wilson,Frisco,TX,43,F,,11:59:38,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Matthew Sandel,League City,TX,44,M,,12:25:04,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Lynn Fravell,Paoli,IN,60,F,,13:09:35,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jared Rothlauf,San Antonio,TX,36,M,,2:55:31,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Olivier Collin,L'Ile-Bizard,QC,33,M,,2:56:26,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Casen McGhee,Little Rock,AR,25,M,,3:45:51,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Christopher Dunn,Katy,TX,26,M,,3:48:36,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,John Stasulli,Killeen,TX,48,M,,4:15:22,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Cristina Regalado,Salt Lake City,UT,33,F,,4:18:34,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Jason Bull,Arvada,CO,29,M,,5:24:08,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Catherine Callas,Menlo Park,CA,29,F,,5:50:16,Bandera 100k,"Bandera, TX",100K
+50001,23,"Saturday, January 7, 2023",2023,,DNF,Rachel Lemcke,Blacksburg,VA,27,F,,1:26:06,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,1,Finisher,Hans Troyer,Newnan,GA,23,M,1,7:45:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,2,Finisher,Jared Rothlauf,San Antonio,TX,37,M,2,8:52:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,3,Finisher,Kwok Hin Lai,Helotes,TX,36,M,3,9:41:03,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,4,Finisher,Jose Varcasia,Panama City,,37,M,4,9:46:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,5,Finisher,Chase Jacques-Maynes,Albuquerque,NM,18,M,5,10:03:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,6,Finisher,Alexis Lussier,bromont,QC,26,M,6,10:11:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,7,Finisher,Justin Brown,Signal Mountain,TN,41,M,7,10:18:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,8,Finisher,Colleen Chase,Princeton,MA,27,F,1,10:32:22,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,9,Finisher,Kevin Bott,Scottsdale,AZ,41,M,8,10:33:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,10,Finisher,Brandon Ruiz,San Antonio,TX,35,M,9,10:38:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,11,Finisher,Samuel Vincent,Wilmington,VT,25,M,10,10:47:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,12,Finisher,Samuel Wilmer,Ft. Wayne,IN,29,M,11,10:48:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,13,Finisher,Aurelien Tave,Corpus Christi,TX,35,M,12,10:54:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,14,Finisher,Kenneth Anderlitch,San Antonio,TX,35,M,13,11:00:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,15,Finisher,Robert Panas,Lafayette,CO,39,M,14,11:03:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,16,Finisher,German Garcia,Flint,TX,44,M,15,11:11:17,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,17,Finisher,Christopher Springer,Arlington,VA,42,M,16,11:11:42,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,18,Finisher,Paul Box,Waxahachie,TX,43,M,17,11:14:10,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,19,Finisher,Matt Smith,San Antonio,TX,45,M,18,11:15:36,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,20,Finisher,Franklin Castillo,Panama,,39,M,19,11:16:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,21,Finisher,Kirill Minkovich,Redwood City,CA,41,M,20,11:17:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,22,Finisher,Lauren Jones,Atlanta,GA,41,F,2,11:20:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,23,Finisher,Matthew Taylor,Dallas,TX,49,M,21,11:24:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,24,Finisher,Julia Hargesheimer,San Antonio,TX,43,F,3,11:30:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,25,Finisher,Christopher Lopez,Honeoye Falls,NY,53,M,22,11:31:35,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,26,Finisher,Thierry Guillot,Miami,FL,55,M,23,11:33:04,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,27,Finisher,Dustin Carr,Pittsburgh,PA,35,M,24,11:34:30,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,28,Finisher,Jason Korbel,Charles City,IA,44,M,25,11:34:34,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,29,Finisher,Andrew Palen,Scarsdale,NY,39,M,26,11:34:54,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,30,Finisher,David Stanley,Overland Park,KS,47,M,27,11:35:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,31,Finisher,Raymond Brintle,Crowley,TX,56,M,28,11:38:36,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,32,Finisher,Mark Buley,Austin,TX,39,M,29,11:39:16,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,33,Finisher,Stephen Paine,Shreveport,LA,46,M,30,11:39:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,34,Finisher,Sarah Aponte,North Andover,MA,33,F,4,11:42:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,35,Finisher,Chase Aycock,San Antonio,TX,34,M,31,11:43:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,36,Finisher,Keith Seiz,Edwardsville,IL,46,M,32,11:43:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,37,Finisher,Jason Falzon,Friendswood,TX,39,M,33,11:44:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,38,Finisher,Ryan Giuliano,Winnipeg,MB,39,M,34,11:50:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,39,Finisher,Wilson Ray,Cambridge,MA,27,M,35,11:50:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,40,Finisher,Kyle Davis,Shreveport,LA,35,M,36,11:50:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,41,Finisher,Jonathon Brooks,Granite City,IL,38,M,37,11:51:48,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,42,Finisher,Adam Henderson,New Braunfels,TX,37,M,38,11:52:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,43,Finisher,Allen Liu,West Point,NY,21,M,39,12:07:28,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,44,Finisher,Timothy Vorhoff,Austin,TX,27,M,40,12:09:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,45,Finisher,James Kothmann,Woodway,TX,32,M,41,12:09:32,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,46,Finisher,Ted Davison,Austin,TX,51,M,42,12:11:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,47,Finisher,Shannon McDowell,Paragould,AR,47,M,43,12:14:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,48,Finisher,Brandon Ray,Bastrop,TX,41,M,44,12:17:17,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,49,Finisher,Tyler Sloan,Medford,MA,31,M,45,12:17:47,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,50,Finisher,Rick Mackintosh,Evergreen,CO,47,M,46,12:25:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,51,Finisher,Alex Georgiev,Rochester,NY,40,M,47,12:26:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,52,Finisher,Rebecca Watters,Atlanta,GA,37,F,5,12:29:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,53,Finisher,Holly Adams,Marietta,GA,45,F,6,12:29:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,54,Finisher,John Jacobs,San Antonio,TX,36,M,48,12:31:22,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,55,Finisher,Pete Mcatee,Kansas City,MO,26,M,49,12:32:15,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,56,Finisher,Shawn Salyer,Denton,TX,40,M,50,12:32:35,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,57,Finisher,Fabrice Perrin,Annecy,,52,M,51,12:32:35,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,58,Finisher,Mary Kronable,Saint Louis,MO,35,F,7,12:32:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,59,Finisher,Sabrina Bohrer,Etna,NH,28,F,8,12:33:32,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,60,Finisher,Philip Arneson,Katy,TX,35,M,52,12:36:02,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,61,Finisher,John Conrad Viano,Martinez,CA,33,M,53,12:41:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,62,Finisher,Taylor Broussard,Oklahoma City,OK,22,M,54,12:44:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,63,Finisher,Christopher Thomas,Reno,NV,55,M,55,12:45:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,64,Finisher,Alexander Nitschke,Boerne,TX,31,M,56,12:45:47,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,65,Finisher,Brandon Head,Weatherford,TX,40,M,57,12:48:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,66,Finisher,John Bute,Dallas,TX,44,M,58,12:49:08,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,67,Finisher,Jason Hammond,Piedmont,OK,36,M,59,12:49:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,68,Finisher,Andrew Gaspard,Shreveport,LA,34,M,60,12:51:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,69,Finisher,Hayden Edwards,San Antonio,TX,41,M,61,12:53:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,70,Finisher,Francisco Escobedo,San Antonio,TX,33,M,62,12:53:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,71,Finisher,Dana Munari,San Antonio,TX,59,M,63,12:54:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,72,Finisher,Aaron Lara,Austin,TX,24,M,64,12:57:03,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,73,Finisher,Chris Metaxas,Conestogo,ON,38,M,65,12:58:00,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,74,Finisher,Alejandro Arreola,Normandy Park,WA,42,M,66,12:58:48,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,75,Finisher,Shane Welsch,Anna,TX,31,M,67,13:05:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,76,Finisher,Boog Ferrell,Athens,TX,45,M,68,13:10:07,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,77,Finisher,Jonathan Funk,Granite Bay,CA,42,M,69,13:11:48,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,78,Finisher,Michael Walters,San Antonio,TX,25,M,70,13:13:45,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,79,Finisher,Kendra Eerdmans,Minot,ND,29,F,9,13:13:46,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,80,Finisher,Kristin Bowen,Corte Madera,CA,43,F,10,13:15:30,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,81,Finisher,Slade Kelling,Del Rio,TX,24,M,71,13:20:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,82,Finisher,Reid Longabaugh,Early,TX,26,M,72,13:21:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,83,Finisher,Aimee Jacobs,San Antonio,TX,34,F,11,13:21:54,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,84,Finisher,Presley Batchelor,Boulder,CO,24,F,12,13:22:15,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,85,Finisher,Blake Wilkins,Mount Pleasant,TX,37,M,73,13:24:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,86,Finisher,Naomi Benson,peterlee,DUR,36,F,13,13:25:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,87,Finisher,Stephen Banister,Carlsbad,CA,40,M,74,13:26:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,88,Finisher,Jeff Hirvela,Austin,TX,44,M,75,13:29:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,89,Finisher,Tim Wittrock,Austin,TX,40,M,76,13:32:45,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,90,Finisher,Shannon Brown,Watertown,WI,39,M,77,13:33:20,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,91,Finisher,Faith Akioyamen,Fulshear,TX,34,F,14,13:33:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,92,Finisher,Michael Miller,Webster,NY,31,M,78,13:37:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,93,Finisher,Will Green,Fort Worth,TX,42,M,79,13:39:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,94,Finisher,Florian Opaska,Kyle,TX,37,M,80,13:40:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,95,Finisher,Brad Stahlman,Choctaw,OK,44,M,81,13:41:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,96,Finisher,Lawrence Vonk,Fort Worth,TX,43,M,82,13:42:08,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,97,Finisher,Cesar Sermeno,Maple Valley,WA,49,M,83,13:42:22,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,98,Finisher,Jonathan Brimmer,Fort Worth,TX,35,M,84,13:42:30,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,99,Finisher,Cliff Culwell,Denton,TX,54,M,85,13:42:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,100,Finisher,Logan Ballesteros,Johnson City,TN,37,M,86,13:43:00,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,101,Finisher,Brandon Hurst,Lewisville,TX,38,M,87,13:43:04,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,102,Finisher,Alex Price,Austin,TX,36,M,88,13:45:20,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,103,Finisher,Suzie Jomphe,Havre-Aubert,QC,36,F,15,13:45:26,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,104,Finisher,Cabel McCandless,Las Cruces,NM,25,M,89,13:46:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,105,Finisher,Christopher Tinkle,Memphis,TN,48,M,90,13:46:28,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,106,Finisher,Shannon Beutler,San Antonio,TX,41,F,16,13:46:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,107,Finisher,Matthew Luna,San Antonio,TX,32,M,91,13:48:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,108,Finisher,CURT BREY,Manitowoc,WI,44,M,92,13:49:22,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,109,Finisher,Matt Spears,San Antonio,TX,36,M,93,13:55:06,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,110,Finisher,Tim Frick,Euless,TX,40,M,94,13:55:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,111,Finisher,Joe Pawlish,Danville,KY,51,M,95,13:55:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,112,Finisher,Shawn Palandri,Beaverton,OR,47,M,96,13:57:08,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,113,Finisher,Francie Hamer,Tulsa,OK,48,F,17,13:58:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,114,Finisher,John Tiernan Booth,Media,PA,35,M,97,13:58:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,115,Finisher,Tim Martin,Fort Worth,TX,52,M,98,14:02:10,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,116,Finisher,Todd Hlasney,Overland Park,KS,50,M,99,14:03:03,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,117,Finisher,Kristopher Koch,San Antonio,TX,40,M,100,14:05:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,118,Finisher,Jacob Langley,Fort Myers,FL,32,M,101,14:10:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,119,Finisher,Owen Roy,West Point,NY,20,M,102,14:13:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,120,Finisher,Tate Taylor,Athens,TX,28,M,103,14:14:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,121,Finisher,Tristan Frazier,Tyler,TX,25,M,104,14:15:33,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,122,Finisher,Daolin Tang,Frisco,TX,47,M,105,14:16:29,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,123,Finisher,Mica Anderson,Huntsville,AL,30,F,18,14:17:03,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,124,Finisher,Joel Sharp,Richardson,TX,46,M,106,14:17:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,125,Finisher,Richard White,Richardson,TX,44,M,107,14:17:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,126,Finisher,Daniel Martin,Tulsa,OK,41,M,108,14:18:13,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,127,Finisher,Kevin Porter,Colorado Springs,CO,48,M,109,14:20:50,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,128,Finisher,Kevin Burpo,Austin,TX,45,M,110,14:20:51,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,129,Finisher,Greg Bergeron,San Diego,CA,53,M,111,14:24:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,130,Finisher,Dean Steele,San Antonio,TX,49,M,112,14:24:24,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,131,Finisher,Nathan Bliss,Stillwater,MN,41,M,113,14:27:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,132,Finisher,Ronnie Nash,Whitehouse,TX,54,M,114,14:27:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,133,Finisher,Sean Margulis,Las Vegas,NV,41,M,115,14:27:36,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,134,Finisher,Thomas Perkins,Houston,TX,52,M,116,14:28:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,135,Finisher,Christopher Capehart,Austin,TX,43,M,117,14:31:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,136,Finisher,Brandon Zaremba,Dorchester,MA,29,M,118,14:32:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,137,Finisher,Zach Ricks,Wimberley,TX,36,M,119,14:32:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,138,Finisher,Chris Prairie,Austin,TX,36,M,120,14:34:50,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,139,Finisher,Colt Himrod,San Antonio,TX,33,M,121,14:36:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,140,Finisher,Caitlin Sconce,Austin,TX,26,F,19,14:40:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,141,Finisher,Michael Babb,Conifer,CO,54,M,122,14:41:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,142,Finisher,Tom Hooper,Lee,NH,45,M,123,14:41:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,143,Finisher,Ryan Sheehy,Buda,TX,33,M,124,14:42:49,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,144,Finisher,Tim Palen,Beavercreek,OH,38,M,125,14:46:49,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,145,Finisher,Michael Rose,Austin,TX,46,M,126,14:47:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,146,Finisher,Matt Curtis,Waxahachie,TX,42,M,127,14:51:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,147,Finisher,Richard Stanley,The Colony,TX,27,M,128,14:51:26,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,148,Finisher,Derek Hunter,New York,NY,32,M,129,14:56:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,149,Finisher,Denver Fredenburg,Dripping Springs,TX,47,M,130,14:57:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,150,Finisher,Emily Carter,Greensboro,NC,44,F,20,14:58:29,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,151,Finisher,Rebecca Burgo,West Henrietta,NY,43,F,21,15:02:15,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,152,Finisher,AJ Schwartz,League City,TX,51,M,131,15:02:46,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,153,Finisher,Michael Ashmead,Colleyville,TX,42,M,132,15:02:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,154,Finisher,Stephanie Pearce,Austin,TX,63,F,22,15:04:00,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,155,Finisher,Anna Black,Aledo,TX,43,F,23,15:05:33,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,156,Finisher,Nathan Tompkins,SOUTHAMPTON,NY,33,M,133,15:05:33,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,157,Finisher,Shane Powell,San Antonio,TX,35,M,134,15:05:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,158,Finisher,Patrick Traynor,Gainesville,FL,43,M,135,15:06:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,159,Finisher,Max Teesdale,San Antonio,TX,28,M,136,15:11:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,160,Finisher,Dan Dowdy,Lampasas,TX,40,M,137,15:11:37,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,161,Finisher,Sean Grant,San Antonio,TX,57,M,138,15:15:06,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,162,Finisher,Timothy Duhon,Lake Charles,LA,25,M,139,15:15:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,163,Finisher,Benjamin Hearon,Chicago,IL,25,M,140,15:19:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,164,Finisher,William Norris,Chicago,IL,28,M,141,15:20:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,165,Finisher,Karen Ellis,Cypress,TX,43,F,24,15:25:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,166,Finisher,Colin Murphy,Austin,TX,38,M,142,15:28:16,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,167,Finisher,Jeremy Wittman,Flower Mound,TX,40,M,143,15:29:15,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,168,Finisher,Daniel Tacker,Robinson,TX,35,M,144,15:29:29,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,169,Finisher,Stephen Scobie,New York,NY,60,M,145,15:29:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,170,Finisher,Alexander Weaver,Aubrey,TX,51,M,146,15:30:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,171,Finisher,Chris Roth,Austin,TX,45,M,147,15:31:10,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,172,Finisher,John Wallace,Pearland,TX,44,M,148,15:32:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,173,Finisher,Matthew Leake,Keller,TX,35,M,149,15:32:17,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,174,Finisher,Bennett Ford,Austin,TX,39,M,150,15:32:47,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,175,Finisher,Jacob Young,Austin,TX,42,M,151,15:32:49,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,176,Finisher,Chase Duarte,Pie Town,NM,56,M,152,15:33:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,177,Finisher,Chris Fall,Tucson,AZ,61,M,153,15:33:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,178,Finisher,ADAM HUGHES,San Antonio,TX,40,M,154,15:34:07,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,179,Finisher,Danny Ponder,Norman,OK,65,M,155,15:34:24,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,180,Finisher,Gram Hall,Tomball,TX,41,M,156,15:35:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,181,Finisher,Marc Vivas,Leander,TX,25,M,157,15:37:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,182,Finisher,Madeline Harms,Duluth,MN,38,F,25,15:39:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,183,Finisher,Maks Mikhalov,Celina,TX,41,M,158,15:40:16,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,184,Finisher,Chris Barnes,Plano,TX,57,M,159,15:40:17,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,185,Finisher,Jason Bull,Arvada,CO,30,M,160,15:41:06,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,186,Finisher,Thomas Smith,San Antonio,TX,45,M,161,15:42:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,187,Finisher,Jeremy Levi,Hondo,TX,43,M,162,15:43:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,188,Finisher,Nelson Medeiros,Lincoln,CA,49,M,163,15:46:35,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,189,Finisher,Michaela MaGee,Prosper,TX,40,F,26,15:48:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,190,Finisher,Kendall MaGee,Prosper,TX,42,M,164,15:48:42,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,191,Finisher,Mark Gregware,Minneapolis,MN,44,M,165,15:51:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,192,Finisher,Jessica Heupel,Saint Charles,MO,31,F,27,15:54:20,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,193,Finisher,Eric Christman,Berwyn,PA,45,M,166,15:55:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,194,Finisher,Carissa Liebowitz,Suwanee,GA,41,F,28,15:55:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,195,Finisher,Katie Zopf,Farmington,MI,45,F,29,15:56:04,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,196,Finisher,Wynne Harvey,Houston,TX,51,M,167,15:56:43,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,197,Finisher,Liesl Standish,Coppell,TX,38,F,30,15:57:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,198,Finisher,Derrell Bird,Cypress,TX,42,M,168,15:57:54,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,199,Finisher,Randy Mott,Spring,TX,53,M,169,16:00:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,200,Finisher,Justin Bennett,Tomball,TX,41,M,170,16:01:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,201,Finisher,Thomas Miskow,Skillman,NJ,44,M,171,16:04:50,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,202,Finisher,Jakob Aagaard,Skillman,NJ,40,M,172,16:04:50,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,203,Finisher,Erin Brophy,Manor,TX,32,F,31,16:05:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,204,Finisher,Masato Ota,Houston,TX,38,M,173,16:05:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,205,Finisher,Darrick Hartman,Sheboygan,WI,50,M,174,16:07:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,206,Finisher,Jada Freer,Kettle Falls,WA,46,F,32,16:07:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,207,Finisher,Janet Hausken,StStillwater,MN,58,F,33,16:08:34,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,208,Finisher,Chris Champion,San Marcos,TX,43,M,175,16:16:43,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,209,Finisher,Jared Payton,San Antonio,TX,27,M,176,16:20:30,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,210,Finisher,Rachel Grabow,Murphy,TX,40,F,34,16:21:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,211,Finisher,Ryan Williams,Houston,TX,44,M,177,16:23:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,212,Finisher,David Shewell,Park City,UT,60,M,178,16:23:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,213,Finisher,James Richey,Conroe,TX,43,M,179,16:24:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,214,Finisher,Stephen Winton,Spring,TX,45,M,180,16:24:20,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,215,Finisher,Jim Skelding,Austin,TX,53,M,181,16:25:50,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,216,Finisher,Ian Krynski,Ellicott City,MD,24,M,182,16:26:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,217,Finisher,Ed Liu,San Francisco,CA,53,M,183,16:27:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,218,Finisher,Theresa Lewis,Rapid City,SD,40,F,35,16:27:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,219,Finisher,Jason Jackson,Rapid City,SD,49,M,184,16:27:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,220,Finisher,Justin Andreas,North Pole,AK,36,M,185,16:27:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,221,Finisher,Daniel Currey,San Marcos,TX,44,M,186,16:29:47,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,222,Finisher,Jon Blankenship,Columbia Falls,MT,50,M,187,16:32:34,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,223,Finisher,Kimberly Huntley,Manitowoc,WI,42,F,36,16:32:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,224,Finisher,Amelia Kegan,Silver Spring,MD,40,F,37,16:32:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,225,Finisher,Richard Donovan,Missouri City,TX,40,M,188,16:33:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,226,Finisher,Matt Wittram,Malakoff,TX,45,M,189,16:35:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,227,Finisher,Kyle Martin-Morris,Seattle,WA,36,M,190,16:36:13,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,228,Finisher,Benjamin Melisi,Live Oak,TX,28,M,191,16:40:17,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,229,Finisher,Christopher Ortiz,Austin,TX,34,M,192,16:44:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,230,Finisher,Nick Kaminski,Burleson,TX,51,M,193,16:44:22,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,231,Finisher,John Michael Busch,Marietta,GA,29,M,194,16:44:54,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,232,Finisher,Brian Watson,Rockwall,TX,49,M,195,16:44:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,233,Finisher,COLE SIMS,Sterlington,LA,55,M,196,16:47:19,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,234,Finisher,Andre Hermann,Sugar Land,TX,49,M,197,16:48:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,235,Finisher,Joyce Abdo,Spring,TX,39,F,38,16:48:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,236,Finisher,Jacob Williams,Washington,DC,25,M,198,16:49:33,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,237,Finisher,Bryan Furler,Austin,TX,44,M,199,16:58:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,238,Finisher,Brian Ricketts,San Antonio,TX,45,M,200,17:04:18,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,239,Finisher,Manoj Sood,Saint Peters,MO,54,M,201,17:07:51,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,240,Finisher,Brian Charles,Adkins,TX,45,M,202,17:15:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,241,Finisher,Andrew Arbuckle,Washington,DC,48,M,203,17:16:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,242,Finisher,Michael Wootton,Austin,TX,51,M,204,17:16:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,243,Finisher,Tyler Royle,Fort Worth,TX,32,M,205,17:18:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,244,Finisher,Ashleigh Feryan,Frisco,TX,34,F,39,17:24:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,245,Finisher,Esther Hackleman,Houston,TX,35,F,40,17:28:24,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,246,Finisher,Mark Savala,Pearland,TX,31,M,206,17:29:18,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,247,Finisher,Tyson Oliver,Palestine,TX,30,M,207,17:39:38,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,248,Finisher,Kameron Fletcher,Austin,TX,29,M,208,17:39:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,249,Finisher,Jimmy Webb,Dallas,TX,37,M,209,17:42:49,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,250,Finisher,Mariel Yapdiangco,El dorado hills,CA,39,F,41,17:48:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,251,Finisher,Christopher Griego,San Angelo,TX,39,M,210,17:50:16,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,252,Finisher,Stephen Anson,LafayetteLafayette,LA,42,M,211,17:51:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,253,Finisher,Blake Boudreaux,lafayette,LA,42,M,212,17:51:16,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,254,Finisher,Charity Baran,San Antonio,TX,42,F,42,17:54:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,255,Finisher,Anabel Pearson,Helotes,TX,53,F,43,17:58:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,256,Finisher,Chad Wegner,Frisco,TX,46,M,213,18:02:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,257,Finisher,John Martinek,Leander,TX,36,M,214,18:23:35,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,258,Finisher,Jennifer Mullen,New Market,MD,36,F,44,18:23:36,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,259,Finisher,Shawn Gipson,Scottsdale,AZ,53,M,215,18:26:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,260,Finisher,Carolyn Cunha,Bozeman,MT,60,F,45,18:30:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,261,Finisher,Brandon Bynum,Midlothian,TX,27,M,216,18:32:51,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,262,Finisher,Richard Gleave,Atascocita,TX,48,M,217,18:33:24,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,263,Finisher,Carrie Knapp,Cibolo,TX,44,F,46,18:34:28,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,264,Finisher,Nancy Marks,Round Rock,TX,63,F,47,18:44:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,265,Finisher,Stefan Hamelin,Saint Charles,MO,48,M,218,18:45:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,266,Finisher,Erick Rendon,San Antonio,TX,44,M,219,18:48:36,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,267,Finisher,Taylor Kennedy,Austin,TX,35,M,220,18:51:48,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,268,Finisher,Brittany Watrous,Anaheim,CA,45,F,48,18:52:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,269,Finisher,Gloria Shrewsbury,Spring,TX,55,F,49,18:52:54,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,270,Finisher,Jeffrey Beezley,Dallas,TX,46,M,221,18:53:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,271,Finisher,Jessica Aydelotte,Forney,TX,35,F,50,18:53:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,272,Finisher,Bob Henne,Wheaton,IL,38,M,222,18:54:13,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,273,Finisher,Karen Angerer,Saint Louis,MO,45,F,51,18:54:48,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,274,Finisher,Rob Klein,Ballwin,MO,46,M,223,18:54:49,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,275,Finisher,Leana Kelley,Houston,TX,34,F,52,18:55:06,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,276,Finisher,Lesley Hakari,Carrollton,TX,43,F,53,18:55:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,277,Finisher,Tony Dale,Round Rock,TX,42,M,224,18:55:37,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,278,Finisher,Aniruddha Sune,Frisco,TX,36,M,225,18:55:37,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,279,Finisher,Ryder DeSalvo,Flagstaff,AZ,30,M,226,18:59:02,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,280,Finisher,Luke Owen,Sturgeon,MO,25,M,227,18:59:02,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,281,Finisher,David Moser,Birmingham,AL,61,M,228,18:59:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,282,Finisher,Edith Garcia,Plano,TX,53,F,54,19:01:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,283,Finisher,Lisa Tuckwood,Converse,TX,50,F,55,19:04:45,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,284,Finisher,Neisa Condemaita,Washington,DC,49,F,56,19:10:13,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,285,Finisher,Jennifer Laughlin,Houston,TX,46,F,57,19:12:04,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,286,Finisher,Isaac Fox,Houston,TX,48,M,229,19:12:04,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,287,Finisher,Kathrine Bliss,Bayport,MN,48,F,58,19:23:29,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,288,Finisher,Justin Blohm,Boerne,TX,38,M,230,19:26:56,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,289,Finisher,Ethan Jackson,Athens,TX,33,M,231,19:29:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,290,Finisher,Marc Godin,Gatineau,QC,27,M,232,19:30:10,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,291,Finisher,Jonathan Ellis,Keller,TX,53,M,233,19:33:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,292,Finisher,Nate Smoyer,Summerset,SD,38,M,234,19:43:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,293,Finisher,Ped Watt,Lenexa,KS,38,M,235,20:01:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,294,Finisher,Wendy Halsey-Richardson,Chattanooga,TN,56,F,59,20:02:37,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,295,Finisher,Brian Elledge,Saint Charles,MO,54,M,236,20:02:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,296,Finisher,Erik Heitman,San Antonio,TX,41,M,237,20:06:07,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,297,Finisher,Samuel Elkins,Springdale,AR,54,M,238,20:07:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,298,Finisher,Barbara Williams,Round Rock,TX,40,F,60,20:24:20,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,299,Finisher,Cheryl Anderson,Saline,MI,51,F,61,20:29:07,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,300,Finisher,Kent Fish,San Angelo,TX,70,M,239,20:50:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,301,Finisher,Mark Huteson,Irving,TX,61,M,240,20:50:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,302,Finisher,CLIFF DE LA CERDA,San Angelo,TX,55,M,241,20:50:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,303,Finisher,Dennis Hall,San Angelo,TX,38,M,242,20:54:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,304,Finisher,Steven Anderson,MCKINNEY,TX,60,M,243,20:56:10,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,305,Finisher,Chris Heupel,Saint Charles,MO,53,M,244,21:16:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,306,Finisher,William Strahan,Plano,TX,56,M,245,21:19:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,307,Finisher,Matthew Newton,Chicago,IL,41,M,246,21:27:20,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,308,Finisher,Jon Perz,Katy,TX,42,M,247,21:30:28,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,309,Finisher,Brian Schaffler,Whitefish Bay,WI,52,M,248,21:42:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,310,Finisher,Dan Nogar,Portland,ME,52,M,249,22:01:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,311,Finisher,Mitchell Strahan,Sunset,TX,30,M,250,22:16:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,312,Finisher,Ethan Rhoades,Dallas,TX,20,M,251,22:16:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,313,Finisher,Jacob Sandel,Texas City,TX,19,M,252,22:32:13,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,314,Finisher,Joshua Wilson,Spring,TX,41,M,253,22:38:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,315,Finisher,Matthew Sandel,Seabrook,TX,45,M,254,22:47:13,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,316,Finisher,Cade McCown,Athens,TX,34,M,255,22:59:01,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,317,Finisher,Michelle Colwell,Rockwall,TX,32,F,62,23:00:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,318,Finisher,Elizabeth Perez,Victoria,TX,59,F,63,23:36:52,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,319,Finisher,Stacey Parsons,Broken Arrow,OK,33,F,64,23:45:56,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,320,Finisher,Andrea Cap,York,PA,33,F,65,23:45:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,321,Finisher,Wendell Smith,Seguin,TX,55,M,256,23:57:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,322,Finisher,Heather Harrison,New Braunfels,TX,43,F,66,23:57:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,323,Finisher,Michael Stanard,Kerrville,TX,60,M,257,24:18:41,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,324,Finisher,Daniel Gelman,San Antonio,TX,31,M,258,24:19:45,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Wouter Hoogkamer,Pelham,MA,41,M,,4:20:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Ty Cervantes,San Marcos,TX,29,M,,4:48:08,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Meng Zhao,Frisco,TX,49,M,,4:50:25,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Ross Ormond,San Antonio,TX,42,M,,5:19:14,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Ruben Trevino,North Richland Hills,TX,34,M,,5:28:21,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Brian Fagan,Pflugerville,TX,45,M,,5:30:35,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jessica Jacobs,San Antonio,TX,47,F,,5:33:50,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Sergio Rocha,Dallas,TX,30,M,,5:51:31,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Trebes Sasser Jr.,San Antonio,TX,39,M,,5:56:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jason Dorgan,Blue Mounds,WI,58,M,,6:12:22,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Will Reams,Harrisburg,PA,30,M,,6:17:36,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Barry Kahn,Austin,TX,42,M,,6:23:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Justin Hoblet,San Antonio,TX,45,M,,6:23:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jaggar Garcia,San Antonio,TX,30,M,,6:26:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Nolan McCarty,Princeton,NJ,56,M,,6:32:15,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Bryan Kraham,Austin,TX,49,M,,6:34:27,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Christopher Whinham,Katy,TX,44,M,,6:40:47,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Brent Williams,Beaumont,TX,41,M,,6:43:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,John Lai,Irving,TX,50,M,,6:48:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Brandon Oswald,Renton,WA,40,M,,6:49:33,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jon Risser,Denver,CO,41,M,,6:49:40,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Trevor Bodine,Waxahachie,TX,38,M,,6:52:23,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Lillian Mcneill,Bend,OR,26,F,,6:54:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Dan Guerrieri,Cypress,TX,50,M,,6:56:43,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jonathan Alvarado,San Antonio,TX,30,M,,6:56:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Brian Ralston,Fort Worth,TX,44,M,,6:59:28,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jerrod Womack,Burleson,TX,45,M,,7:07:28,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jason Engstrom,New Braunfels,TX,40,M,,7:15:26,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Brian Martin,MckinneyMcKinney,TX,35,M,,7:25:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Holli Dobay,Chicago,IL,28,F,,7:31:34,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Catharine Wain,Chicago,IL,26,F,,7:31:34,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Nate Smith,Kerrville,TX,48,M,,7:34:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Bill McDonald,Bradenton,FL,62,M,,7:40:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Larry Creveling,Westminster,SC,71,M,,7:42:03,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Christian Concepcion,Raton,NM,37,M,,7:45:44,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,BRAD ADDINK,New Lisbon,WI,52,M,,7:46:09,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Justin Lowry,Mc Gregor,TX,42,M,,7:48:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Claire Huss,Saint Peters,MO,22,F,,7:48:48,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Hyrum Smith,Pleasanton,TX,40,M,,7:59:39,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Gretchen Bullock,Abilene,TX,43,F,,8:01:56,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Alla Bova,Stafford,TX,62,F,,8:08:12,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Terry Nicholas,Leonard,TX,38,M,,8:24:02,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Konstantinos Gouzias,Plymouth,MA,27,M,,8:40:03,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Henry Bickerstaff,Alva,OK,69,M,,8:46:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Carl Bliss,Bayport,MN,47,M,,8:48:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Nicolas Uriegas,San Antonio,TX,41,M,,9:04:18,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Kate Tsai,Breckenridge,CO,48,F,,9:17:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jacob Sosa,Austin,TX,20,M,,9:28:16,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Danielle Mathews,Plano,TX,39,F,,9:34:58,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,LUIS NORIEGA,New Braunfels,TX,42,M,,9:47:00,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Kelli Stewart,El Paso,TX,34,F,,10:03:56,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Sarah Deal,Roseville,CA,41,F,,10:04:00,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Enos Hershberger,Decatur,TX,34,M,,10:07:05,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Aubreigh Hutchison,Boca Raton,FL,41,F,,11:03:55,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Debbie Allen,Boca Raton,FL,55,F,,11:03:57,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Steven Wang,Boca Raton,FL,42,M,,11:03:59,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Martin Ortiz,Austin,TX,53,M,,11:39:53,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Veronica Sosa,Austin,TX,54,F,,13:15:11,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Loren Smith,Little Falls,MN,35,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jacob Carroll,Plymouth,MA,22,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Jason Yaeger,Fair Oaks,CA,51,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Nick Sept,Celina,TX,33,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Rob Fornataro,Pittsford,NY,52,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Aaron Davis,San Antonio,TX,34,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,24,"Saturday, January 13, 2024",2024,,DNF,Chris Phillips,Cypress,TX,41,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,1,Finisher,Dany Racine,Victoriaville,QC,33,M,1,10:20:26,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,2,Finisher,Nick Petterson,Leander,TX,31,M,2,11:21:51,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,3,Finisher,Aimee Jacobs,San Antonio,TX,35,F,1,11:33:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,4,Finisher,Stephen Bennett,Swampscott,MA,35,M,3,11:48:57,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,5,Finisher,Michael Martinez,Colorado Springs,CO,39,M,4,11:52:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,6,Finisher,Colin Smith,Swampscott,MA,38,M,5,11:58:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,7,Finisher,Carlos Baeza,Chula Vista,CA,29,M,6,12:00:34,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,8,Finisher,Michael Borst,La Crosse,WI,31,M,7,12:05:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,9,Finisher,German Garcia,Flint,TX,45,M,8,12:07:14,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,10,Finisher,Maximilian Haiss,Euclid,OH,31,M,9,12:10:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,11,Finisher,Shelley Walushka,Sudbury,ON,39,F,2,12:10:55,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,12,Finisher,Colin Meyer,San Antonio,TX,38,M,10,12:13:06,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,13,Finisher,Eric Wright,Edgewater,CO,40,M,11,12:14:26,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,14,Finisher,Lila Gaudrault,Cape Elizabeth,ME,22,F,3,12:23:38,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,15,Finisher,Richard Cook,Seattle,WA,43,M,12,12:24:21,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,16,Finisher,Scott McGowan,Henrico,VA,26,M,13,12:25:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,17,Finisher,Maika Lamoureux,Gatineau,QC,26,F,4,12:27:04,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,18,Finisher,Matt Smith,San Antonio,TX,46,M,14,12:29:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,19,Finisher,Kenny Garner,Bryant,AR,49,M,15,12:34:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,20,Finisher,ANNIE Moore,Nashville,TN,33,F,5,12:52:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,21,Finisher,James Fladhammer,Holmen,WI,43,M,16,12:54:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,22,Finisher,Joshua Duryea,Columbus,OH,22,M,17,12:58:04,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,23,Finisher,Walker Yane,Saint Louis,MO,40,M,18,13:00:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,24,Finisher,Aurelien Tave,Corpus Christi,TX,36,M,19,13:04:34,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,25,Finisher,Martin Pleynet,Washington,DC,23,M,20,13:11:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,26,Finisher,ANDREW WELDON,Denver,CO,32,M,21,13:29:46,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,27,Finisher,Ian Rolls,Wimberley,TX,46,M,22,13:31:57,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,28,Finisher,Dane Ball,Houston,TX,46,M,23,13:37:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,29,Finisher,Philip Arneson,Katy,TX,36,M,24,13:39:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,30,Finisher,Greg Bargo,Tallahassee,FL,41,M,25,13:44:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,31,Finisher,Zar Toolan,Saint Louis,MO,45,M,26,13:52:55,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,32,Finisher,David Jones,Kerrville,TX,34,M,27,14:04:50,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,33,Finisher,MICHAIL ZYGOMANIS,Scarborough,ON,43,M,28,14:06:35,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,34,Finisher,Red Shelby,Southlake,TX,31,M,29,14:06:47,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,35,Finisher,Aaron Gonzales,Austin,TX,30,M,30,14:07:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,36,Finisher,Ian McAulay,Austin,TX,28,M,31,14:07:45,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,37,Finisher,Evan Tuuk,Fredericksburg,TX,35,M,32,14:08:14,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,38,Finisher,Cody Carnett,Fredericksburg,TX,41,M,33,14:08:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,39,Finisher,Matthew Taylor,Dallas,TX,50,M,34,14:10:51,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,40,Finisher,Chelsea Ward-Waller,Anchorage,AK,35,F,6,14:17:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,41,Finisher,Kevin Yang,Cambridge,MA,29,M,35,14:31:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,42,Finisher,Leo Fung,Calgary,AB,34,M,36,14:34:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,43,Finisher,Evan Stoneham,Grand Rapids,MI,25,M,37,14:43:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,44,Finisher,Sabrina Bohrer,Lyme,NH,29,F,7,14:44:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,45,Finisher,Serena Blacklow,Cambridge,MA,29,F,8,14:48:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,46,Finisher,Boog Ferrell,Athens,TX,46,M,38,14:49:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,47,Finisher,Emma Cameron,Madison,WI,32,F,9,14:52:03,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,48,Finisher,Florian Opaska,Austin,TX,38,M,39,14:54:43,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,49,Finisher,Mason McClintock,San Angelo,TX,38,M,40,14:54:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,50,Finisher,Neil Feldman,Boylston,MA,54,M,41,14:57:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,51,Finisher,Catherine Castro Villicana,Guadalajara,JAL,33,F,10,14:57:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,52,Finisher,Luke Fechtman,Houston,TX,32,M,42,15:06:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,53,Finisher,Patrick Hogan,Marblehead,MA,45,M,43,15:09:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,54,Finisher,Matt Dibb,Scituate,MA,43,M,44,15:10:42,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,55,Finisher,JT Peebles,Tyler,TX,44,M,45,15:13:16,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,56,Finisher,Daniel Tacker,Robinson,TX,36,M,46,15:19:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,57,Finisher,Hannah Francis,Madison,WI,30,F,11,15:21:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,58,Finisher,Zachary Wims,Canyon Country,CA,29,M,47,15:21:12,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,59,Finisher,Sarah Loch-Test,Denton,TX,40,F,12,15:22:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,60,Finisher,Sean Smith,Stoughton,MA,35,M,48,15:23:21,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,61,Finisher,"""Jose """"Rafa"""""" Yanez",Albuquerque,NM,37,M,49,15:24:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,62,Finisher,Kevin Burpo,Austin,TX,46,M,50,15:25:59,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,63,Finisher,Tim Wittrock,Austin,TX,41,M,51,15:26:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,64,Finisher,Sean Coughlan,Little Rock,AR,52,M,52,15:28:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,65,Finisher,Adrian Santos,Austin,TX,34,M,53,15:29:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,66,Finisher,Gustin Lee,Fargo,ND,36,M,54,15:36:24,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,67,Finisher,James Segura,San Antonio,TX,27,M,55,15:38:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,68,Finisher,Conrad Brown,San Antonio,TX,41,M,56,15:41:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,69,Finisher,Chris Prairie,Austin,TX,37,M,57,15:42:07,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,70,Finisher,Tom Stewart,Carmel,IN,39,M,58,15:46:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,71,Finisher,Rodrigo Elizalde,Guadalajara,JAL,37,M,59,15:46:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,72,Finisher,Roderick Akrigg,Calgary,AB,46,M,60,15:47:34,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,73,Finisher,Mark Sutyak,Fairmont,WV,44,M,61,15:47:59,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,74,Finisher,Lindsey Duffield,Reklaw,TX,38,F,13,15:49:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,75,Finisher,Ted Davison,Austin,TX,52,M,62,15:52:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,76,Finisher,Daniel Payne,Austin,TX,45,M,63,15:52:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,77,Finisher,Chuck Clark,Aubrey,TX,53,M,64,15:55:44,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,78,Finisher,Jonathan Brimmer,Fort Worth,TX,36,M,65,15:55:46,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,79,Finisher,Joshua Jarvis,Tyler,TX,33,M,66,15:56:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,80,Finisher,Kevan Turner,Livermore,CA,37,M,67,15:56:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,81,Finisher,Laura Laidacker,Watsontown,PA,37,F,14,15:59:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,82,Finisher,Britta Welsch,La Mesa,CA,29,F,15,16:07:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,83,Finisher,Shannon Brown,Watertown,WI,40,M,68,16:09:28,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,84,Finisher,Nick Reed,Waukesha,WI,48,M,69,16:09:28,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,85,Finisher,Daniel Mullen,Pearland,TX,46,M,70,16:10:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,86,Finisher,Joey Coats,Haughton,LA,43,M,71,16:10:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,87,Finisher,Jaggar Garcia,San Antonio,TX,31,M,72,16:10:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,88,Finisher,KC Stayner,Canyon Lake,TX,46,M,73,16:13:36,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,89,Finisher,Dyan Eppen,Spearfish,SD,39,F,16,16:14:51,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,90,Finisher,Juan Sauceda,Burleson,TX,31,M,74,16:17:19,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,91,Finisher,Johnny Mandernach,San Antonio,TX,34,M,75,16:18:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,92,Finisher,Sophia Jones,Manhattan,KS,30,F,17,16:19:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,93,Finisher,RONNIE nash,Whitehouse,TX,55,M,76,16:20:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,94,Finisher,Craig Ashley,Redmond,WA,51,M,77,16:20:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,95,Finisher,Bryan DeVries,Woodway,TX,35,M,78,16:20:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,96,Finisher,Dylan Weidner,Fort Worth,TX,32,M,79,16:20:30,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,97,Finisher,Matt Spears,San Antonio,TX,37,M,80,16:21:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,98,Finisher,Gustavo Rodriguez,Houston,TX,31,M,81,16:24:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,99,Finisher,Brad Kale,Bozeman,MT,26,M,82,16:24:36,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,100,Finisher,Tim Emmett,Wentzville,MO,39,M,83,16:25:19,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,101,Finisher,Tate Taylor,Ogden,UT,29,M,84,16:31:38,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,102,Finisher,CORY GROSKLAGS,Katy,TX,48,M,85,16:32:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,103,Finisher,Justin Mellott,Canal Winchester,OH,47,M,86,16:32:07,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,104,Finisher,Will McGowan,Newark,DE,30,M,87,16:32:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,105,Finisher,Juan Carlos Morales Rodriguez,San Pedro Cholula,PUE,38,M,88,16:32:47,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,106,Finisher,Sergio Vazquez Ramirez,Aguascalientes,AGU,44,M,89,16:32:48,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,107,Finisher,Genevieve Clemons,Austin,TX,22,F,18,16:34:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,108,Finisher,Joe Buffa,Warson Woods,MO,44,M,90,16:38:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,109,Finisher,Aaron Burgett,San Diego,CA,30,M,91,16:38:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,110,Finisher,SCOTT HUNGATE,Boulder,CO,55,M,92,16:38:44,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,111,Finisher,Collin Fallon,Austin,TX,44,M,93,16:39:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,112,Finisher,Reid Longabaugh,Early,TX,27,M,94,16:39:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,113,Finisher,Jeff Hirvela,Austin,TX,45,M,95,16:39:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,114,Finisher,Jonathan Durham,Corpus Christi,TX,34,M,96,16:41:59,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,115,Finisher,Mani Angerhofer,Austin,TX,30,M,97,16:43:42,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,116,Finisher,Alex Price,Austin,TX,37,M,98,16:43:56,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,117,Finisher,Chris Roth,Austin,TX,46,M,99,16:44:04,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,118,Finisher,Jerome Bennett,Austin,TX,39,M,100,16:45:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,119,Finisher,Amanda Bayer,Waunakee,WI,35,F,19,16:50:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,120,Finisher,Bradley Culberson,Louisville,CO,48,M,101,16:51:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,121,Finisher,Karl Poetzl,Houston,TX,50,M,102,16:52:55,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,122,Finisher,Brian Fort,Hinsdale,IL,45,M,103,16:53:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,123,Finisher,Michael Rose,Austin,TX,47,M,104,16:58:55,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,124,Finisher,Natalie Gentry,Bella Vista,AR,46,F,20,17:05:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,125,Finisher,William McDonald,San Antonio,TX,46,M,105,17:07:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,126,Finisher,Rick Russell,Austin,TX,55,M,106,17:07:43,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,127,Finisher,Erica Garner,Abilene,TX,32,F,21,17:08:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,128,Finisher,Charles Holt,Rockwall,TX,52,M,107,17:08:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,129,Finisher,Amy Howard,Aledo,TX,55,F,22,17:11:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,130,Finisher,Brian Gilbert,Girard,TX,41,M,108,17:12:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,131,Finisher,Roger Hayes,Given,WV,46,M,109,17:12:34,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,132,Finisher,Andrew Flowers,Flower Mound,TX,42,M,110,17:16:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,133,Finisher,Rich Leggett,Issaquah,WA,61,M,111,17:23:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,134,Finisher,SANDRA HEHN,Goderich,ON,42,F,23,17:31:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,135,Finisher,Ryan Cody,Silver City,NM,47,M,112,17:33:28,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,136,Finisher,Adelaide Rolls,Wimberley,TX,16,F,24,17:34:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,137,Finisher,Leopoldo Martinez,Austin,TX,46,M,113,17:36:03,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,138,Finisher,Shawn Houck,Spring,TX,39,M,114,17:37:38,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,139,Finisher,Paula Massa,Quillota,,33,F,25,17:39:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,140,Finisher,Phillip Patterson,KatyKaty,TX,34,M,115,17:44:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,141,Finisher,Grayce Langheine,York,PA,42,F,26,17:55:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,142,Finisher,Joni Phillips,El Dorado,CA,54,F,27,18:03:57,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,143,Finisher,Jason Hoffman,Tyler,TX,50,M,116,18:08:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,144,Finisher,Juan Tejeda,Houston,TX,41,M,117,18:12:07,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,145,Finisher,Janet Hausken,Bayport,MN,59,F,28,18:16:28,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,146,Finisher,Carolyn Cunha,Bozeman,MT,61,F,29,18:19:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,147,Finisher,Chris Davison,Dripping Springs,TX,47,M,118,18:19:50,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,148,Finisher,Daniel Campbell,Austin,TX,45,M,119,18:20:53,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,149,Finisher,Shane Kenney,Metairie,LA,34,M,120,18:21:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,150,Finisher,Christopher Collum,Kingwood,TX,29,M,121,18:21:44,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,151,Finisher,Steven Beathard,Richardson,TX,40,M,122,18:21:58,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,152,Finisher,Dylan Larson,Midland,TX,29,M,123,18:22:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,153,Finisher,Mark Cooper,Mission,TX,54,M,124,18:28:03,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,154,Finisher,James Hofmann,Houston,TX,39,M,125,18:30:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,155,Finisher,COLE GARDINER,Ashland,KS,31,M,126,18:37:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,156,Finisher,Matt Wittram,Malakoff,TX,46,M,127,18:38:21,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,157,Finisher,Justin Froemming,Minneapolis,MN,37,M,128,18:38:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,158,Finisher,Kevin Schneider,Spring,TX,49,M,129,18:43:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,159,Finisher,Fred Steuber,Fowlerville,MI,57,M,130,18:49:53,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,160,Finisher,Robby Riggs,Franklin,TN,41,M,131,18:51:23,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,161,Finisher,Steven Dryer,Holmen,WI,53,M,132,18:55:57,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,162,Finisher,Leonel Cueto,Austin,TX,21,M,133,18:57:30,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,163,Finisher,Sedric Thomas,Rockwall,TX,44,M,134,19:00:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,164,Finisher,Kim Stark,Rockwall,TX,50,F,30,19:00:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,165,Finisher,Ryan Yedlinsky,Lansing,KS,49,M,135,19:00:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,166,Finisher,Don Wells,Johnson City,TX,29,M,136,19:03:46,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,167,Finisher,Ed Helms,Chicago,IL,42,M,137,19:03:47,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,168,Finisher,Matthew Leake,Keller,TX,36,M,138,19:08:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,169,Finisher,Michael Krepelka,San Antonio,TX,42,M,139,19:11:48,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,170,Finisher,Jose Luevano,Manvel,TX,40,M,140,19:13:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,171,Finisher,Scott McKean,Dripping Springs,TX,56,M,141,19:15:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,172,Finisher,Segundo de los Heros Monereo,Dripping Springs,TX,50,M,142,19:15:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,173,Finisher,Will Finley,Abilene,TX,27,M,143,19:21:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,174,Finisher,Brian Ricketts,San Antonio,TX,46,M,144,19:36:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,175,Finisher,Colten Nevel,Tulsa,OK,32,M,145,19:39:43,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,176,Finisher,Mario Chiarolanzio,Coweta,OK,39,M,146,19:39:45,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,177,Finisher,Sarah Victor,San Diego,CA,29,F,31,19:40:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,178,Finisher,Rosalio F. Salinas III,Portland,TX,39,M,147,19:40:33,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,179,Finisher,Phillip Claassen,Columbus,OH,27,M,148,19:42:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,180,Finisher,Scott Schoeck,Grove City,OH,38,M,149,19:47:12,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,181,Finisher,Sergio Carbajal Torres,Houston,TX,29,M,150,19:50:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,182,Finisher,Jack Giegerich,Kingwood,TX,40,M,151,19:55:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,183,Finisher,Qheiza Edelwise,Bastrop,TX,38,F,32,20:04:53,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,184,Finisher,Ashleigh Feryan,Frisco,TX,35,F,33,20:04:58,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,185,Finisher,Jon Lee,Fargo,ND,57,M,152,20:06:30,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,186,Finisher,James Harden,Austin,TX,45,M,153,20:13:37,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,187,Finisher,Stephen Winton,Spring,TX,46,M,154,20:18:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,188,Finisher,Andy Gillard,Richardson,TX,45,M,155,20:21:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,189,Finisher,Ian Bost,Colleyville,TX,47,M,156,20:27:23,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,190,Finisher,Austin Bizzle,Lebanon,TN,29,M,157,20:28:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,191,Finisher,Benjamin Morlang,Kingwood,TX,45,M,158,20:30:36,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,192,Finisher,Shannon Payne,Seattle,WA,54,F,34,20:31:33,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,193,Finisher,Christopher Ortiz,Austin,TX,35,M,159,20:32:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,194,Finisher,Michael Plummer,San Antonio,TX,48,M,160,20:39:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,195,Finisher,Stephen Nuby,Houston,TX,43,M,161,20:40:55,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,196,Finisher,Kirsten Jett,Amarillo,TX,55,F,35,20:45:23,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,197,Finisher,David De Jesus,Philadelphia,PA,26,M,162,20:46:47,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,198,Finisher,Ed Brown,Arlington,TX,63,M,163,20:46:50,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,199,Finisher,Tom Monte,Hurst,TX,57,M,164,20:57:59,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,200,Finisher,Michael Baker,Austin,TX,50,M,165,20:59:37,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,201,Finisher,Charity Baran,San Antonio,TX,43,F,36,21:09:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,202,Finisher,Raul Torres,Del Rio,TX,43,M,166,21:09:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,203,Finisher,Kate Tsai,Breckenridge,CO,49,F,37,21:24:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,204,Finisher,Mike Saleh,Madison,NJ,46,M,167,21:40:03,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,205,Finisher,Brian Gebhart,Flint,MI,30,M,168,21:41:54,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,206,Finisher,Vipin Varkey,Spring,TX,47,M,169,21:46:33,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,207,Finisher,Drew Newton,Arlington,VA,38,M,170,21:47:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,208,Finisher,melissa mejias,Arlington,VA,41,F,38,21:47:21,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,209,Finisher,JEREMY REMILLARD,Sacramento,CA,40,M,171,21:47:22,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,210,Finisher,Lisa Williams,Saint Louis,MO,41,F,39,21:49:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,211,Finisher,Ethan Jackson,Athens,TX,34,M,172,21:54:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,212,Finisher,Carlos Segnini,Austin,TX,43,M,173,22:26:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,213,Finisher,Joe Avila,Hewitt,TX,50,M,174,22:31:40,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,214,Finisher,Billy Pitts,Lott,TX,54,M,175,22:31:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,215,Finisher,Kirsten Black,Granite City,IL,34,F,40,22:36:33,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,216,Finisher,Branndon Bargo,Austin,TX,48,M,176,22:38:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,217,Finisher,Caroline Justice,Lees Summit,MO,46,F,41,22:40:35,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,218,Finisher,Thomas Smith,San Antonio,TX,46,M,177,22:41:19,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,219,Finisher,Shae Merritt,Ocala,FL,37,F,42,22:46:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,220,Finisher,Nancy Marks,Round Rock,TX,64,F,43,22:46:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,221,Finisher,Brett Woelber,Anchorage,AK,37,M,178,22:48:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,222,Finisher,Erick Rendon,San Antonio,TX,45,M,179,23:15:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,223,Finisher,Marc Hoyle,Temple,PA,61,M,180,23:39:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,224,Finisher,Chris Powers,San Antonio,TX,49,M,181,23:45:36,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,225,Finisher,Lisa Wright,Liberty Hill,TX,63,F,44,23:48:11,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,226,Finisher,Jesus Rivera,Austin,TX,44,M,182,24:09:06,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,227,Finisher,Kent Fish,San Angelo,TX,71,M,183,24:31:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,228,Finisher,Daniela De La Cerda,San Angelo,TX,45,F,45,24:31:30,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,229,Finisher,CLIFF DE LA CERDA,San Angelo,TX,56,M,184,24:31:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,230,Finisher,Athea Davis,Bellaire,TX,46,F,46,24:35:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,231,Finisher,The Amish Rebel Rebel,Decatur,TX,35,M,185,24:36:16,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,232,Finisher,William Strahan,Plano,TX,57,M,186,24:36:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Karsten Scherer,Catonsville,MD,51,M,,11:42:04,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Tim Wilson,Buda,TX,33,M,,12:50:24,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,David McLennan,Knoxville,TN,45,M,,12:51:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Robert Morrison,Plano,TX,32,M,,14:00:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ismael Vilchis,Pasadena,TX,33,M,,14:18:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Kye Byars,Corpus Christi,TX,26,M,,16:05:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jillian McCue,Corpus Christi,TX,21,F,,16:05:42,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jason Erickson,Marinette,WI,52,M,,16:20:51,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Mitchell Strahan,Sunset,TX,31,M,,18:04:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Justin Erickson,Mission,TX,49,M,,18:35:13,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Laura Owens,Tyler,TX,46,F,,18:35:16,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Rick Chavez,San Antonio,TX,45,M,,18:45:30,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,LUIS NORIEGA,New Braunfels,TX,43,M,,18:59:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Meng Zhao,Frisco,TX,50,M,,5:38:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Benjamin Stephens,San Antonio,TX,40,M,,5:56:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Lee DeMet,Madison,WI,35,M,,6:03:58,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Mira Rai,Kathmandu,,36,F,,6:20:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Conor Gillen,Saginaw,TX,39,M,,6:31:07,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Aiden Gruner,Loves Park,IL,21,M,,6:35:36,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,David Galvez,Oakland,CA,30,M,,6:36:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Edward Sousa,Cottonwood Heights,UT,48,M,,6:50:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ryan Sheehy,Buda,TX,34,M,,6:54:14,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ivan Reid,San Antonio,TX,30,M,,7:02:53,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Blake Wilkins,Mount Pleasant,TX,38,M,,7:04:21,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Richard White,Richardson,TX,45,M,,7:07:09,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Shawn Russell,San Antonio,TX,53,M,,7:11:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Joseph Fasl,New York,NY,43,M,,7:12:30,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Steven Ockerbloom,Granby,CT,50,M,,7:14:38,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michael Roberts,Holden,MA,50,M,,7:17:54,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Todd Pizzi,San Diego,CA,51,M,,7:20:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Craig Calkins,Ballwin,MO,35,M,,7:24:35,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Todd Sabo,Blairsville,GA,53,M,,7:30:16,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Matthew LaPaglia,Prairieville,LA,39,M,,7:30:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Grayson Grzegorczyk,Hope,MI,34,M,,7:37:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Denver Fredenburg,Dripping Springs,TX,48,M,,7:37:16,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Justin Foskett,Spring,TX,48,M,,7:37:24,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jim Casey,Roanoke,VA,40,M,,7:44:58,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Hampton Hall,Georgetown,TX,25,M,,7:46:45,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jim Hughes,Boylston,MA,52,M,,7:48:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Matthew Graham,Round Rock,TX,38,M,,7:51:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ed Mahoney,Longmont,CO,62,M,,7:57:37,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Isabella Grossling,Austin,TX,27,F,,8:00:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michael Miller,Austin,TX,46,M,,8:01:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Sarah Teruel,Midland,TX,35,F,,8:02:13,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Luciano Najera,Stanton,TX,34,M,,8:02:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Nicholas DiMarco,San Antonio,TX,40,M,,8:03:23,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,James Carter,Longview,TX,48,M,,8:04:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Matt Swallow,Kyle,TX,40,M,,8:04:33,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,James Kuhn,Springfield,IL,45,M,,8:04:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michael Affentranger,Shawnee,OK,47,M,,8:06:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Art Cook,Austin,TX,58,M,,8:06:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michael McVay,Calhoun,LA,30,M,,8:07:13,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jason Allen,Austin,TX,42,M,,8:10:02,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Codie Hair,Lubbock,TX,46,M,,8:19:01,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Chad Bailey,Grapevine,TX,47,M,,8:20:04,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Sandra Daust,Blairsville,GA,57,F,,8:21:26,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Lou Amorati,Worcester,MA,61,M,,8:25:06,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Julio Morales,Spring,TX,51,M,,8:27:03,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Victoria Allen,San Antonio,TX,37,F,,8:30:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Amy Holpuch,San Antonio,TX,30,F,,8:30:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jonathan Fletcher,Killeen,TX,41,M,,8:34:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Adam Krueger,Austin,TX,38,M,,8:37:12,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Mike Mahady,Katy,TX,55,M,,8:39:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michael Grade,San Francisco,CA,59,M,,8:39:35,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Chris Barnes,Plano,TX,58,M,,8:45:44,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ethan Hester,Tyler,TX,33,M,,8:46:37,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Nate Smith,Kerrville,TX,49,M,,8:47:23,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jordan Cornelius,Pflugerville,TX,37,M,,8:49:50,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Erin Watt,Canyon,TX,29,F,,9:06:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Kameron Fletcher,Austin,TX,30,M,,9:10:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jefhrey Javier,Round Rock,TX,46,M,,9:10:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,FERNANDO VILAS,Fort Worth,TX,44,M,,9:12:36,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Brian Pranske,San Antonio,TX,50,M,,9:14:13,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Robert Mars,Pearland,TX,62,M,,9:14:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Danny Ponder,Norman,OK,66,M,,9:21:44,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Stephanie Sibille,Granby,CT,38,F,,9:24:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Tobey Davis,Atlanta,GA,52,F,,9:24:37,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Darren Durrett,Richardson,TX,49,M,,9:27:48,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jonathan McCall,New Orleans,LA,49,M,,9:31:06,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Sam McGowan,Rockville,VA,24,M,,9:32:49,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Lesley Hakari,Carrollton,TX,44,F,,9:34:47,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michael Wootton,Austin,TX,52,M,,9:40:27,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Brittany Flores,Tehachapi,CA,28,F,,9:42:53,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Chris Ramos,San Antonio,TX,39,M,,9:59:32,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,COLEBY BORCHARDT,Bridgeport,TX,32,M,,10:08:46,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Hannah Strahan,Sunset,TX,29,F,,10:11:00,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Lisa Decker,Kingwood,TX,38,F,,10:15:25,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,JOSEPH DOLLAK,Spring,TX,53,M,,10:29:17,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Charles Strahan,Dallas,TX,36,M,,10:31:51,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Krystal Riley,Lufkin,TX,41,F,,10:38:52,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Brian Charles,Adkins,TX,46,M,,10:41:35,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Steven Anderson,McKinney,TX,61,M,,10:53:20,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Henry Bickerstaff,Alva,OK,70,M,,11:06:15,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ronald Nix,Henderson,TX,46,M,,11:06:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jennifer Ware,Longview,TX,42,F,,11:06:18,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,David Havlik,Irving,TX,30,M,,11:08:56,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Morgan Kohut,Martindale,TX,39,F,,11:15:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Courtney Martinez,Spring Branch,TX,36,F,,11:15:43,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Michelle Colwell,Fate,TX,33,F,,11:19:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Cade McCown,Fate,TX,35,M,,11:19:38,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Adella Flores,Irving,TX,46,F,,11:58:08,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,John Fazzio,Hoboken,NJ,45,M,,11:58:10,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,James Collins,Kingwood,TX,39,M,,11:58:13,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Carrick Hale,Abilene,TX,23,M,,12:08:38,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Patty Romo,Irving,TX,48,F,,16:28:56,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Unknown Runner 172,,,,,,16:28:57,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Sam Schillinger,Eugene,OR,26,M,,2:42:39,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Cory Torkelson,San Antonio,TX,40,M,,2:43:05,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Daniel Valdez,Caldwell,TX,29,M,,3:29:04,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Chad Kennedy,Wichita Falls,TX,39,M,,3:39:57,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jonathan Alvarado,San Antonio,TX,31,M,,3:42:47,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Logan DeRosier,Buda,TX,31,M,,3:54:55,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jared Bilanin,Chatham,NJ,51,M,,4:11:46,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Randi Kuhn,Springfield,IL,41,F,,4:25:56,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Kyle Swallow,Meridian,ID,36,M,,4:30:29,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Larry Creveling,Westminster,SC,72,M,,4:34:54,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Jeff Dozier,San Marcos,TX,39,M,,4:56:41,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ben Gale,Markleville,IN,46,M,,5:11:16,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Scott Custead,Burleson,TX,46,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,andre hermann,Sugar Land,TX,50,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Martin Ortiz,Austin,TX,54,M,,N/A,Bandera 100k,"Bandera, TX",100K
+50001,25,"Saturday, January 11, 2025",2025,,DNF,Ty Cervantes,San Marcos,TX,30,M,,N/A,Bandera 100k,"Bandera, TX",100K
