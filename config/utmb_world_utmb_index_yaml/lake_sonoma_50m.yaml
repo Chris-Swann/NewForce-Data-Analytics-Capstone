@@ -1,0 +1,22 @@
+dates:
+  2016: 4-9-2016
+  2017: 4-15-2017
+  2018: 4-14-2018
+  2019: 4-13-2019
+race_dist: 50M
+series_id: 50487
+race_loc: "Healdsburg, CA"
+race_name: Lake Sonoma 50
+races:
+  2016: 
+    race_id: 27160
+    race_uri: 1341.lakesonoma50milerlakesonoma50
+  2017: 
+    race_id: 35675
+    race_uri: 1341.lakesonoma50milerlakesonoma50
+  2018: 
+    race_id: 43685
+    race_uri: 1341.lakesonoma50milerlakesonoma50
+  2019:
+    race_id: 57573
+    race_uri: 1341.lakesonoma50milerlakesonoma50

@@ -1,5 +1,4 @@
 Year,Total,1 Year,2 Year,3 Year,4 Year,5 Year,6 Year,7 Year,8 year,9 year,10 year,Tickets,Wait List,Notes
-,Applicants,,,,,,,,,,,,,
 2000,583,,,,,,,,,,,,,
 2001,556,,,,,,,,,,,,,
 2002,529,,,,,,,,,,,,,
@@ -9,7 +8,7 @@ Year,Total,1 Year,2 Year,3 Year,4 Year,5 Year,6 Year,7 Year,8 year,9 year,10 yea
 2006,841,,,,,,,,,,,,,
 2007,1048,,,,,,,,,,,,,
 2008,1350,,,,,,,,,,,,,"Fire year, race cancelled"
-2009,no lottery,,,,,,,,,,,,,"Rollovers, two-time losers, autos"
+2009,0,,,,,,,,,,,,,"Rollovers, two-time losers, autos"
 2010,1693,,,,,,,,,,,,,Last year for two-time losers
 2011,1786,1286,500,,,,,,,,,2286,,electronic drawing
 2012,1940,1221,461,258,,,,,,,,3378,,electronic drawing
@@ -21,7 +20,7 @@ Year,Total,1 Year,2 Year,3 Year,4 Year,5 Year,6 Year,7 Year,8 year,9 year,10 yea
 2018,4909,2658,1060,668,283,161,71,8,,,,15074,2018,
 2019,5862,3113,1281,697,455,191,95,30,,,,20119,2019,First year of Byes
 2020,6664,3250,1447,914,549,315,126,54,9,,,27872,2020,"COVID-19, Race Cancelled"
-2021,no lottery,,,,,,,,,,,,2021,Dropped consecutive year requirement
+2021,0,,,,,,,,,,,0,2021,Dropped consecutive year requirement
 2022,6208,3318,1063,722,514,328,186,59,18,,,29724,2022,First year of portal
 2023,7169,3560,1578,731,525,374,232,127,37,5,,41392,2023,electronic drawing
 2024,9388,4434,2216,1231,606,420,256,147,70,8,,53966,2024,

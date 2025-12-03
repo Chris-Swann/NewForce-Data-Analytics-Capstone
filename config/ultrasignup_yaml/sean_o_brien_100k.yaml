@@ -1,0 +1,15 @@
+race_name: Sean O'Brien 100K
+race_loc: Calabasas, CA
+race_dist: 100K
+series_id: 29758
+race_ids:
+  2016: 33769
+  2017: 38282
+  2018: 46885
+
+# DNF data unavailable for 2017-2018 
+# Checked:
+  # https://ultrarunning.com/calendar/event/sean-o-brien-50m-50k-26-2/race/15644/results#selected_year
+  # https://ultrasignup.com/results_event.aspx?did=38282
+  # No other sources found
+  

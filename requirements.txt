@@ -1,4 +1,7 @@
 pandas
+requests
+lxml
+chromedriver-auotinstaller
 selenium
 beautifulsoup4
 PyYAML

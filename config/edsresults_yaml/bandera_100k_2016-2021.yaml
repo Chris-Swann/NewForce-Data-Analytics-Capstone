@@ -1,0 +1,18 @@
+race_name: Bandera 100k
+race_loc: Bandera, TX
+race_dist: 100K
+series_id: 50001
+race_date:
+  2016: 2016-01-09
+  2017: 2017-01-07
+  2018: 2018-01-06
+  2019: 2019-01-05
+  2020: 2020-01-11
+  2021: 2021-01-09
+race_slugs:
+  2016: bandera16
+  2017: bandera17
+  2018: bandera18
+  2019: bandera19
+  2020: bandera20
+  2021: bandera21
